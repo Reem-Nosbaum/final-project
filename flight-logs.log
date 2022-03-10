@@ -1,0 +1,478 @@
+2022-02-19 15:06:46,547:Anonymous_Facade:ERROR:The User-tal- Not found
+2022-02-19 15:07:09,609:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 15:07:13,993:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 15:25:53,683:FacadeBase:INFO:flights has been shown!
+2022-02-19 15:25:53,684:db_repo:INFO:get all
+2022-02-19 15:25:53,686:db_repo:INFO:get all
+2022-02-19 15:26:25,233:FacadeBase:INFO:flights has been shown!
+2022-02-19 15:26:25,233:db_repo:INFO:get all
+2022-02-19 15:26:25,237:db_repo:INFO:get all
+2022-02-19 15:28:51,953:FacadeBase:ERROR:Input must be an integer!
+2022-02-19 15:29:29,257:FacadeBase:ERROR:Input must be an integer!
+2022-02-19 15:32:25,168:FacadeBase:INFO:flights has been shown!
+2022-02-19 15:32:25,168:db_repo:INFO:get all
+2022-02-19 15:32:25,171:db_repo:INFO:get all
+2022-02-19 15:33:41,030:FacadeBase:INFO:flights has been shown!
+2022-02-19 15:33:41,030:db_repo:INFO:get all
+2022-02-19 15:33:41,032:db_repo:INFO:get all
+2022-02-19 16:37:56,975:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 16:38:28,868:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 16:38:42,181:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 16:39:04,105:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 16:40:53,948:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 16:41:49,591:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 16:42:57,401:Anonymous_Facade:ERROR:The User-tal95- Not found
+2022-02-19 17:36:54,603:Anonymous_Facade:INFO:Hello airline!, reem26
+2022-02-19 17:38:01,319:Anonymous_Facade:INFO:Hello admin!, ron32
+2022-02-19 18:47:26,910:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 18:54:49,345:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 18:56:07,062:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 18:56:39,621:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 18:57:02,425:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 18:57:28,803:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 19:08:37,836:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 19:31:34,645:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 19:31:57,163:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-19 19:32:08,691:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-19 19:38:17,208:Anonymous_Facade:ERROR:password must be string!
+2022-02-19 19:38:17,209:Anonymous_Facade:ERROR:username must be string!
+2022-02-19 19:38:17,212:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-19 19:38:17,214:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-19 19:38:30,455:Anonymous_Facade:ERROR:password must be string!
+2022-02-19 19:38:30,456:Anonymous_Facade:ERROR:username must be string!
+2022-02-19 19:38:30,459:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-19 19:38:30,461:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-19 19:38:43,458:Anonymous_Facade:ERROR:password must be string!
+2022-02-19 19:38:43,459:Anonymous_Facade:ERROR:username must be string!
+2022-02-19 19:38:43,462:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-19 19:38:43,464:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-19 19:44:16,493:Anonymous_Facade:ERROR:The User-noga27- Not found
+2022-02-19 19:45:45,390:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-19 19:45:45,394:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-19 19:46:21,427:Anonymous_Facade:ERROR:The User-noga27- Not found
+2022-02-19 19:48:54,869:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-19 19:48:54,872:FacadeBase:INFO:User ron32 created!
+2022-02-19 19:49:50,175:Anonymous_Facade:ERROR:The User-noga27- Not found
+2022-02-19 20:02:29,518:Anonymous_Facade:ERROR:The User-noga27- Not found
+2022-02-19 20:07:42,856:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-19 20:10:43,744:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-19 20:11:10,409:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-19 20:11:10,409:FacadeBase:INFO:User < customers id = None first name = testmichael last_name  = testjackson address = London oxford st. phone number = test0506666666credit card number = test6806668882 user id = 8 > created!
+2022-02-19 22:08:25,504:FacadeBase:INFO:flights has been shown!
+2022-02-19 22:08:25,504:db_repo:INFO:get all
+2022-02-19 22:08:25,507:db_repo:INFO:get all
+2022-02-19 22:12:01,601:FacadeBase:INFO:Flight shown!
+2022-02-19 22:12:45,045:FacadeBase:INFO:Flight shown!
+2022-02-19 22:13:14,366:FacadeBase:INFO:Flight shown!
+2022-02-19 22:15:35,081:FacadeBase:INFO:Flight shown!
+2022-02-19 22:16:10,155:FacadeBase:INFO:Flight shown!
+2022-02-19 22:16:13,293:FacadeBase:INFO:Flight shown!
+2022-02-19 22:21:08,245:FacadeBase:INFO:Flight shown!
+2022-02-19 22:22:22,403:FacadeBase:ERROR:Input must be an integer!
+2022-02-19 22:22:22,406:FacadeBase:ERROR: id*345*, was not found!
+2022-02-19 22:25:48,060:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:27:17,825:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:31:57,545:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:33:45,945:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:35:24,095:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:39:07,050:FacadeBase:ERROR:Input must be an integer!
+2022-02-19 22:39:07,052:FacadeBase:ERROR:Input must be an integer!
+2022-02-19 22:39:07,052:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:39:07,052:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-19 22:40:10,671:FacadeBase:INFO:airlines has been shown!
+2022-02-19 22:40:10,671:db_repo:INFO:get all
+2022-02-19 22:40:32,737:FacadeBase:INFO:airlines has been shown!
+2022-02-19 22:40:32,737:db_repo:INFO:get all
+2022-02-19 22:40:32,739:db_repo:INFO:get all
+2022-02-19 22:41:00,708:FacadeBase:INFO:airline  shown!
+2022-02-20 15:51:00,485:FacadeBase:INFO:airline  shown!
+2022-02-20 15:51:08,779:FacadeBase:ERROR:Input must be an integer!
+2022-02-20 15:51:08,780:FacadeBase:ERROR:Input must be an integer!
+2022-02-20 15:51:08,780:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-20 15:51:08,780:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-20 15:54:58,334:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 07:46:17,160:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-21 07:46:38,063:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-21 07:46:52,792:Anonymous_Facade:ERROR:password must be string!
+2022-02-21 07:46:52,792:Anonymous_Facade:ERROR:username must be string!
+2022-02-21 07:46:52,796:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-21 07:46:52,799:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-21 07:52:56,341:FacadeBase:INFO:flights has been shown!
+2022-02-21 07:52:56,341:db_repo:INFO:get all
+2022-02-21 07:52:56,344:db_repo:INFO:get all
+2022-02-21 07:52:59,596:FacadeBase:INFO:Flight shown!
+2022-02-21 07:53:02,376:FacadeBase:ERROR:Input must be an integer!
+2022-02-21 07:53:02,381:FacadeBase:ERROR: id*345*, was not found!
+2022-02-21 07:53:04,971:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-21 07:57:42,270:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 08:00:31,325:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 08:02:20,521:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 08:03:10,610:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 08:04:55,875:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 08:05:09,985:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 08:05:40,977:FacadeBase:INFO:airline  shown!
+2022-02-21 08:09:37,094:FacadeBase:INFO:airline  shown!
+2022-02-21 08:18:25,001:FacadeBase:ERROR:Input must be an integer!
+2022-02-21 08:18:25,005:FacadeBase:ERROR: id*563*, was not found!
+2022-02-21 08:21:56,997:FacadeBase:INFO:Countries has been shown!
+2022-02-21 08:21:56,997:db_repo:INFO:get all
+2022-02-21 08:21:57,000:db_repo:INFO:get all
+2022-02-21 08:26:32,001:FacadeBase:INFO:country  shown!
+2022-02-21 15:39:27,730:FacadeBase:INFO:country  shown!
+2022-02-21 15:40:07,912:FacadeBase:ERROR:Input must be an integer!
+2022-02-21 15:40:07,915:FacadeBase:ERROR: id*894*, was not found!
+2022-02-21 15:41:55,263:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-21 15:42:19,725:FacadeBase:INFO:User testReem created!
+2022-02-21 15:42:33,633:FacadeBase:INFO:User testReem created!
+2022-02-21 15:43:54,952:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 15:44:06,694:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 15:44:06,694:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-21 15:46:35,292:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 15:46:35,292:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-21 15:49:39,557:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-21 15:59:53,430:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-21 16:04:57,413:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-21 16:06:37,871:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-21 16:17:54,519:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-21 16:17:56,653:Anonymous_Facade:ERROR:password must be string!
+2022-02-21 16:17:56,654:Anonymous_Facade:ERROR:username must be string!
+2022-02-21 16:17:56,656:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-21 16:17:56,658:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-21 16:18:01,356:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 16:29:15,242:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 16:29:15,242:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-21 16:29:19,383:FacadeBase:INFO:User testReem created!
+2022-02-21 16:29:24,662:FacadeBase:INFO:Countries has been shown!
+2022-02-21 16:29:24,662:db_repo:INFO:get all
+2022-02-21 16:29:24,665:db_repo:INFO:get all
+2022-02-21 16:29:28,924:FacadeBase:ERROR:Input must be an integer!
+2022-02-21 16:29:28,926:FacadeBase:ERROR: id*563*, was not found!
+2022-02-21 16:29:49,409:FacadeBase:ERROR:Input must be an integer!
+2022-02-21 16:29:49,412:FacadeBase:ERROR: id*345*, was not found!
+2022-02-21 16:29:59,166:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 16:31:57,193:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 16:35:26,531:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-21 16:36:19,619:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-21 16:40:04,863:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-21 16:41:20,472:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-21 16:41:35,615:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-21 16:43:23,671:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-22 09:50:49,346:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-22 19:09:09,063:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-22 19:09:16,111:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-22 19:15:49,533:FacadeBase:INFO:User testor created!
+2022-02-22 19:15:49,553:Anonymous_Facade:INFO:User testor created!
+2022-02-22 19:19:08,601:FacadeBase:INFO:User testor created!
+2022-02-22 19:19:08,616:Anonymous_Facade:INFO:User testor created!
+2022-02-22 19:19:08,630:Anonymous_Facade:INFO:Customer testor testcohen  created!
+2022-02-22 19:19:08,635:FacadeBase:INFO:User testor created!
+2022-02-22 19:21:11,843:FacadeBase:ERROR:<class 'errors.error_flight_not_found.FlightNotFound'> - Flight was not found!
+2022-02-22 19:24:08,190:FacadeBase:INFO:flights has been shown
+2022-02-22 19:25:07,332:FacadeBase:INFO:flights has been shown
+2022-02-22 19:25:30,607:FacadeBase:INFO:flights has been shown
+2022-02-22 19:25:46,204:FacadeBase:INFO:flights has been shown
+2022-02-22 19:26:02,341:FacadeBase:INFO:flights has been shown
+2022-02-22 19:37:44,221:FacadeBase:INFO:flights has been shown
+2022-02-22 19:40:38,746:FacadeBase:INFO:flights has been shown
+2022-02-22 19:45:14,668:FacadeBase:INFO:flights has been shown
+2022-02-22 19:47:10,818:FacadeBase:INFO:flights has been shown
+2022-02-22 19:47:56,870:FacadeBase:INFO:flights has been shown
+2022-02-22 19:49:29,772:FacadeBase:INFO:flights has been shown
+2022-02-22 19:52:28,135:FacadeBase:INFO:flights has been shown
+2022-02-22 19:54:08,808:FacadeBase:INFO:flights has been shown
+2022-02-22 19:54:38,863:FacadeBase:INFO:flights has been shown
+2022-02-22 19:58:15,258:FacadeBase:INFO:flights has been shown
+2022-02-22 19:58:43,475:FacadeBase:INFO:flights has been shown
+2022-02-22 19:59:35,693:FacadeBase:INFO:flights has been shown
+2022-02-22 20:01:35,342:FacadeBase:INFO:flights has been shown
+2022-02-22 21:32:54,936:Anonymous_Facade:ERROR:password must be string!
+2022-02-22 21:32:54,936:Anonymous_Facade:ERROR:username must be string!
+2022-02-22 21:32:54,939:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-22 21:32:54,941:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-22 21:32:57,180:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-22 21:33:00,755:FacadeBase:INFO:User testor created!
+2022-02-22 21:33:00,767:Anonymous_Facade:INFO:User testor created!
+2022-02-22 21:33:00,776:Anonymous_Facade:INFO:Customer testor testcohen  created!
+2022-02-22 21:33:00,778:FacadeBase:INFO:User testor created!
+2022-02-22 21:35:29,214:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-22 21:36:29,629:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-22 21:36:45,607:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-22 21:38:01,331:FacadeBase:INFO:flights has been shown
+2022-02-22 21:38:04,765:FacadeBase:ERROR:Input must be an integer!
+2022-02-22 21:38:04,765:FacadeBase:ERROR:Input must be an integer!
+2022-02-22 21:38:04,765:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-22 21:38:04,765:FacadeBase:INFO:flights has been shown
+2022-02-22 21:38:43,025:FacadeBase:ERROR:Input must be an integer!
+2022-02-22 21:38:43,025:FacadeBase:ERROR:Input must be an integer!
+2022-02-22 21:38:43,025:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-22 21:38:43,025:FacadeBase:INFO:flights has been shown
+2022-02-22 21:39:25,051:FacadeBase:ERROR:Input must be an integer!
+2022-02-22 21:39:25,051:FacadeBase:ERROR:Input must be an integer!
+2022-02-22 21:39:25,051:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-22 21:39:43,265:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-22 21:39:43,265:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-22 21:39:47,631:FacadeBase:INFO:User testReem created!
+2022-02-23 08:47:01,846:FacadeBase:INFO:User test created!
+2022-02-23 08:47:01,855:Anonymous_Facade:INFO:User test created!
+2022-02-23 08:47:01,863:Anonymous_Facade:INFO:Customer test one  created!
+2022-02-23 08:47:01,865:FacadeBase:INFO:User test created!
+2022-02-23 08:49:29,281:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 08:51:54,110:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 08:52:00,040:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 08:52:21,879:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 08:53:42,617:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 08:54:36,623:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 08:54:52,247:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 09:23:17,455:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 09:26:49,100:FacadeBase:INFO:User test created!
+2022-02-23 09:26:49,108:Anonymous_Facade:INFO:User test created!
+2022-02-23 09:26:49,111:Anonymous_Facade:INFO:Customer test one  created!
+2022-02-23 09:26:49,112:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:28:02,098:FacadeBase:INFO:User test created!
+2022-02-23 09:28:02,105:Anonymous_Facade:INFO:User test created!
+2022-02-23 09:28:02,112:Anonymous_Facade:INFO:Customer test one  created!
+2022-02-23 09:28:02,113:FacadeBase:INFO:User test created!
+2022-02-23 09:28:07,407:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 09:28:41,038:FacadeBase:INFO:User test created!
+2022-02-23 09:28:41,046:Anonymous_Facade:INFO:User test created!
+2022-02-23 09:28:41,054:Anonymous_Facade:INFO:Customer test one  created!
+2022-02-23 09:28:41,056:FacadeBase:INFO:User test created!
+2022-02-23 09:28:43,871:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 09:28:43,872:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:54:49,924:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 09:54:49,925:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:55:50,110:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-23 09:55:52,437:Anonymous_Facade:ERROR:password must be string!
+2022-02-23 09:55:52,437:Anonymous_Facade:ERROR:username must be string!
+2022-02-23 09:55:52,440:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-02-23 09:55:52,442:Anonymous_Facade:ERROR:the password is incorrect
+2022-02-23 09:55:55,060:FacadeBase:INFO:User test created!
+2022-02-23 09:55:55,069:Anonymous_Facade:INFO:User test created!
+2022-02-23 09:55:55,077:Anonymous_Facade:INFO:Customer test one  created!
+2022-02-23 09:55:55,079:FacadeBase:INFO:User test created!
+2022-02-23 09:55:59,314:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-23 09:55:59,314:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:56:32,290:FacadeBase:INFO:User testReem created!
+2022-02-23 09:56:35,556:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:56:35,556:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-23 09:56:40,303:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:56:40,304:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-23 09:56:51,267:FacadeBase:ERROR:Input must be an integer!
+2022-02-23 09:56:51,268:FacadeBase:ERROR:Input must be an integer!
+2022-02-23 09:56:51,268:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-23 09:56:54,607:FacadeBase:INFO:airlines has been shown!
+2022-02-23 09:56:54,607:db_repo:INFO:get all
+2022-02-23 09:56:54,611:db_repo:INFO:get all
+2022-02-23 09:56:56,438:FacadeBase:INFO:airline  shown!
+2022-02-23 09:56:59,364:FacadeBase:ERROR:Input must be an integer!
+2022-02-23 09:56:59,371:FacadeBase:ERROR: id*563*, was not found!
+2022-02-23 09:57:04,842:FacadeBase:ERROR:Input must be an integer!
+2022-02-23 09:57:04,844:FacadeBase:ERROR: id*894*, was not found!
+2022-02-23 09:57:11,289:FacadeBase:INFO:User testReem created!
+2022-02-23 09:57:13,490:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-23 09:57:13,490:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-24 07:46:21,598:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-24 07:46:21,598:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-24 07:46:32,009:FacadeBase:INFO:User test created!
+2022-02-24 07:46:32,020:Anonymous_Facade:INFO:User test created!
+2022-02-24 07:46:32,033:Anonymous_Facade:INFO:Customer test one  created!
+2022-02-24 07:46:32,037:FacadeBase:INFO:User test created!
+2022-02-24 07:48:18,140:FacadeBase:INFO:flights has been shown
+2022-02-24 07:59:12,431:FacadeBase:ERROR:Input must be an text!
+2022-02-24 08:00:36,253:FacadeBase:ERROR:Input must be an text!
+2022-02-24 16:03:07,881:FacadeBase:INFO:Countries has been shown!
+2022-02-24 16:03:07,882:db_repo:INFO:get all
+2022-02-24 16:03:07,885:db_repo:INFO:get all
+2022-02-24 16:03:23,497:FacadeBase:INFO:country  shown!
+2022-02-24 16:03:34,525:FacadeBase:INFO:User testReem created!
+2022-02-24 16:03:37,786:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-24 16:03:37,787:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-24 16:03:45,715:FacadeBase:ERROR:Input must be an integer!
+2022-02-24 16:03:45,715:FacadeBase:ERROR:Input must be an integer!
+2022-02-24 16:03:45,715:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-24 16:03:52,948:FacadeBase:INFO:flights has been shown
+2022-02-24 16:12:26,297:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-24 16:13:04,729:Anonymous_Facade:INFO:WELCOME, ADMIN ron32
+2022-02-24 16:14:58,193:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:15:39,123:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:22:19,963:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:24:24,581:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:28:57,114:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:30:05,737:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:33:41,132:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:34:03,718:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-24 16:36:16,739:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-25 15:03:06,281:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-25 15:03:24,661:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-25 15:17:27,283:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-25 15:18:04,873:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-25 22:40:31,205:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 17:43:45,982:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-27 17:48:42,897:FacadeBase:ERROR:Input must be an integer!
+2022-02-27 17:48:42,897:FacadeBase:ERROR:Input must be an integer!
+2022-02-27 17:48:42,897:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-02-27 18:02:34,973:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:07:27,313:FacadeBase:INFO:flights has been shown
+2022-02-27 18:08:05,480:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-27 18:08:05,480:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-02-27 18:08:07,483:FacadeBase:ERROR:Input must be an integer!
+2022-02-27 18:08:07,488:FacadeBase:ERROR: id*894*, was not found!
+2022-02-27 18:08:31,700:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-27 18:08:51,140:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:09:50,297:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:12:10,205:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:19:19,688:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:34:28,947:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:35:52,470:FacadeBase:INFO:flights has been shown!
+2022-02-27 18:35:52,470:db_repo:INFO:get all
+2022-02-27 18:35:52,475:db_repo:INFO:get all
+2022-02-27 18:36:04,075:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:36:43,635:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:37:04,302:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-27 18:37:47,709:FacadeBase:INFO:flights has been shown!
+2022-02-27 18:37:47,709:db_repo:INFO:get all
+2022-02-27 18:37:47,716:db_repo:INFO:get all
+2022-02-27 18:37:50,906:FacadeBase:INFO:Flight shown!
+2022-02-27 18:38:09,346:FacadeBase:INFO:flights has been shown
+2022-02-27 18:38:13,093:FacadeBase:ERROR:Input must be an integer!
+2022-02-27 18:38:13,096:FacadeBase:ERROR: id*563*, was not found!
+2022-02-27 18:38:19,419:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-02-27 18:38:19,420:FacadeBase:ERROR: Input must be a "Users" object!
+2022-02-27 18:38:31,593:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:39:00,700:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:40:07,479:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-02-27 18:41:55,606:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:42:48,579:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:45:21,125:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:46:55,904:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 18:58:26,086:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:01:31,113:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:02:06,491:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:02:24,147:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:03:20,816:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:03:44,049:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:03:55,581:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:04:03,536:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:04:44,388:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:07:04,877:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:13:29,441:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:19:26,073:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:20:23,685:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:23:32,976:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:24:02,146:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:25:00,343:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:25:21,939:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:25:35,632:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:25:39,413:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:25:42,985:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:25:58,667:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:26:14,581:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:26:59,889:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:27:36,677:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:27:56,873:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:28:26,300:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:28:45,838:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:29:30,371:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:29:37,983:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:30:06,121:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:31:19,298:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:32:29,046:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:33:03,558:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:33:24,343:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:34:24,666:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:34:32,105:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 19:35:18,701:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:05:26,332:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:06:39,695:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:07:00,404:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:07:36,630:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:08:10,699:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:09:09,433:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:10:51,301:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:11:00,171:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:11:07,111:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-27 20:15:54,799:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:19:29,616:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:22:19,463:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:22:30,615:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:23:25,807:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:25:58,477:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:27:48,249:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:33:12,208:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:33:25,304:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:34:06,084:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:35:27,500:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:35:41,078:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:41:56,850:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:43:00,370:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:43:37,252:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:43:49,690:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:50:12,566:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:50:25,415:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:50:53,393:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:51:27,073:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:51:37,347:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:53:14,980:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 08:57:51,594:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:00:24,176:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:00:54,551:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:01:12,120:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:02:27,663:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:02:28,240:Administrator_Facade:INFO:customers has been shown!...
+2022-02-28 09:02:30,331:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:02:30,865:Administrator_Facade:INFO:customers has been shown!...
+2022-02-28 09:02:40,045:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:02:40,405:Administrator_Facade:INFO:customers has been shown!...
+2022-02-28 09:04:03,165:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-02-28 09:04:15,409:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:38:00,563:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:43:13,597:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:47:21,227:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:48:26,063:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:49:08,413:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:49:33,391:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 09:59:51,895:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:02:13,798:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:10:35,224:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:14:01,806:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:20:35,071:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:22:13,197:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:22:17,668:Anonymous_Facade:INFO:WELCOME, ADMIN boris45
+2022-03-01 10:27:22,421:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-01 10:27:22,421:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-01 10:27:27,865:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-01 10:27:27,865:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-01 10:27:42,789:FacadeBase:INFO:flights has been shown
+2022-03-01 10:27:51,553:FacadeBase:ERROR:Input must be an integer!
+2022-03-01 10:27:51,553:FacadeBase:ERROR:Input must be an integer!
+2022-03-01 10:27:51,553:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-01 10:28:36,337:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-03-01 10:28:36,337:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-01 10:30:30,673:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:30:49,109:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:31:32,027:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:32:08,896:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:34:18,328:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:35:34,579:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:38:36,516:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:38:41,350:Anonymous_Facade:INFO:WELCOME, AIRLINE reem26
+2022-03-01 10:47:12,864:Anonymous_Facade:INFO:WELCOME, CUSTOMER orlev
+2022-03-01 11:03:50,317:FacadeBase:INFO:airline  shown!
+2022-03-01 11:03:53,365:FacadeBase:ERROR:Input must be an integer!
+2022-03-01 11:03:53,368:FacadeBase:ERROR: id*563*, was not found!
+2022-03-01 11:13:10,496:FacadeBase:ERROR:Input must be an text!
+2022-03-01 11:13:55,493:FacadeBase:ERROR:Input must be an text!
+2022-03-01 11:14:24,073:FacadeBase:ERROR:Input must be an text!
+2022-03-01 11:14:31,771:FacadeBase:ERROR:Input must be an text!
+2022-03-01 11:14:33,862:FacadeBase:ERROR:Input must be an text!
+2022-03-01 11:17:44,009:FacadeBase:ERROR:Input must be an text!
+2022-03-01 11:18:39,254:FacadeBase:ERROR:Input must be an integer!
+2022-03-01 11:18:39,254:FacadeBase:ERROR:Input must be an integer!
+2022-03-01 11:18:39,255:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-01 15:38:27,087:db_repo:INFO:get all
+2022-03-01 15:38:39,934:db_repo:INFO:get all
+2022-03-01 15:38:43,991:db_repo:INFO:get all
+2022-03-01 15:40:04,087:db_repo:INFO:get all
+2022-03-01 15:40:18,781:db_repo:INFO:get all
+2022-03-01 15:40:29,015:db_repo:INFO:get all
+2022-03-01 15:40:34,584:db_repo:INFO:get all
