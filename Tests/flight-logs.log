@@ -2680,3 +2680,583 @@
 2022-03-10 11:54:10,666:Administrator_Facade:INFO:customer Deleted!
 2022-03-10 11:55:58,876:Anonymous_Facade:INFO:WELCOME, ADMIN reem
 2022-03-10 11:55:59,269:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 15:15:13,263:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:15:13,846:Administrator_Facade:INFO:customers has been shown!...
+2022-03-11 15:15:13,846:db_repo:INFO:get all
+2022-03-11 15:15:13,852:db_repo:INFO:get all
+2022-03-11 15:15:17,119:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:15:17,596:FacadeBase:INFO:User testor created!
+2022-03-11 15:15:17,629:Administrator_Facade:INFO:User testor created!
+2022-03-11 15:15:17,652:Administrator_Facade:INFO:Customer testomry testnosbaum  created!
+2022-03-11 15:15:55,396:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:15:55,900:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 15:15:55,909:Administrator_Facade:INFO:User #1 Deleted!
+2022-03-11 15:16:12,038:Anonymous_Facade:ERROR:The User-reem- Not found
+2022-03-11 15:34:34,692:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:34:35,020:FacadeBase:INFO:User test12 created!
+2022-03-11 15:34:35,029:Administrator_Facade:INFO:User test12 created!
+2022-03-11 15:34:35,037:Administrator_Facade:INFO:Customer test1 test2  created!
+2022-03-11 15:34:35,041:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 15:34:35,047:Administrator_Facade:INFO:User #4 Deleted!
+2022-03-11 15:35:52,893:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:35:53,274:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 15:37:33,989:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:37:34,269:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-11 15:37:49,013:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:37:49,317:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 15:39:42,852:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:39:43,145:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 15:40:07,880:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:52:09,856:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:54:14,360:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:58:26,139:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:58:49,440:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:59:12,356:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:59:12,576:Administrator_Facade:INFO:customer Deleted!
+2022-03-11 15:59:12,580:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 15:59:30,771:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 15:59:31,002:Administrator_Facade:INFO:customer Deleted!
+2022-03-11 15:59:31,006:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 16:00:39,360:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:02:59,969:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:35:51,800:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:35:52,072:Administrator_Facade:INFO:customer Deleted!
+2022-03-11 16:35:52,076:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 16:36:01,432:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:36:25,867:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:38:10,976:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:41:38,820:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:41:39,077:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-11 16:41:39,081:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 16:42:54,388:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:42:54,632:FacadeBase:INFO:User test12 created!
+2022-03-11 16:42:54,644:Administrator_Facade:INFO:User test12 created!
+2022-03-11 16:42:54,653:Administrator_Facade:INFO:Customer test1 test2  created!
+2022-03-11 16:42:54,663:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 16:42:54,670:Administrator_Facade:INFO:User #4 Deleted!
+2022-03-11 16:45:14,855:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:45:15,151:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 16:45:27,780:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:45:28,065:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-03-11 16:45:28,066:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 16:45:28,069:FacadeBase:INFO:User testkob created!
+2022-03-11 16:45:28,077:Administrator_Facade:INFO:User testkob created!
+2022-03-11 16:45:28,086:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 16:45:57,969:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:45:58,330:Administrator_Facade:INFO:customers has been shown!...
+2022-03-11 16:45:58,330:db_repo:INFO:get all
+2022-03-11 16:45:58,333:db_repo:INFO:get all
+2022-03-11 16:46:00,401:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:46:00,751:FacadeBase:INFO:User testor created!
+2022-03-11 16:46:00,758:Administrator_Facade:INFO:User testor created!
+2022-03-11 16:46:00,765:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 16:47:19,053:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:47:19,282:FacadeBase:INFO:User testor created!
+2022-03-11 16:47:19,289:Administrator_Facade:INFO:User testor created!
+2022-03-11 16:47:19,295:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 16:47:24,475:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:47:24,847:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 16:47:24,847:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 16:47:24,850:FacadeBase:INFO:User testomri created!
+2022-03-11 16:47:24,858:Administrator_Facade:INFO:User testomri created!
+2022-03-11 16:47:24,865:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 16:47:34,253:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:47:34,629:FacadeBase:INFO:User testomri created!
+2022-03-11 16:47:34,636:Administrator_Facade:INFO:User testomri created!
+2022-03-11 16:47:34,645:Administrator_Facade:INFO:airline created!
+2022-03-11 16:48:08,931:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:09,177:FacadeBase:INFO:User testomri created!
+2022-03-11 16:48:09,185:Administrator_Facade:INFO:User testomri created!
+2022-03-11 16:48:09,193:Administrator_Facade:INFO:airline created!
+2022-03-11 16:48:13,436:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:13,805:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 16:48:13,806:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 16:48:13,808:FacadeBase:INFO:User testshir created!
+2022-03-11 16:48:13,816:Administrator_Facade:INFO:User testshir created!
+2022-03-11 16:48:13,823:Administrator_Facade:INFO:airline created!
+2022-03-11 16:48:23,300:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:23,674:FacadeBase:INFO:User testor created!
+2022-03-11 16:48:23,682:Administrator_Facade:INFO:User testor created!
+2022-03-11 16:48:23,689:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 16:48:38,929:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:39,243:FacadeBase:INFO:User testor created!
+2022-03-11 16:48:39,260:Administrator_Facade:INFO:User testor created!
+2022-03-11 16:48:39,278:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 16:48:43,722:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:44,174:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-03-11 16:48:44,174:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 16:48:44,177:FacadeBase:INFO:User testkob created!
+2022-03-11 16:48:44,187:Administrator_Facade:INFO:User testkob created!
+2022-03-11 16:48:44,195:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 16:48:54,305:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:54,723:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 16:48:56,787:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:57,241:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-11 16:48:57,247:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 16:48:59,314:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:48:59,807:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 16:49:01,534:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:49:02,008:Administrator_Facade:INFO:customer Deleted!
+2022-03-11 16:49:02,020:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 16:49:03,990:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:49:04,226:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 16:50:43,520:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:50:43,764:FacadeBase:INFO:User test2 created!
+2022-03-11 16:50:43,774:Administrator_Facade:INFO:User test2 created!
+2022-03-11 16:50:43,783:Administrator_Facade:INFO:adnim test1 test2  created!
+2022-03-11 16:50:43,790:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 16:50:43,794:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 16:52:59,874:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:53:00,153:FacadeBase:INFO:User test2 created!
+2022-03-11 16:53:00,160:Administrator_Facade:INFO:User test2 created!
+2022-03-11 16:53:00,168:Administrator_Facade:INFO:adnim test1 test2  created!
+2022-03-11 16:53:00,175:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 16:54:17,233:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:54:17,475:FacadeBase:INFO:User test2 created!
+2022-03-11 16:54:17,482:Administrator_Facade:INFO:User test2 created!
+2022-03-11 16:54:17,491:Administrator_Facade:INFO:adnim test1 test2  created!
+2022-03-11 16:54:17,498:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 16:55:38,263:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 16:55:38,500:FacadeBase:INFO:User test2 created!
+2022-03-11 16:55:38,508:Administrator_Facade:INFO:User test2 created!
+2022-03-11 16:55:38,517:Administrator_Facade:INFO:adnim test1 test2  created!
+2022-03-11 16:55:38,521:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:06:57,630:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:06:58,041:FacadeBase:INFO:User test2 created!
+2022-03-11 17:06:58,049:Administrator_Facade:INFO:User test2 created!
+2022-03-11 17:06:58,057:Administrator_Facade:INFO:adnim test1 test2  created!
+2022-03-11 17:06:58,061:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:13:01,059:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:13:01,358:FacadeBase:INFO:User test22 created!
+2022-03-11 17:13:01,366:Administrator_Facade:INFO:User test22 created!
+2022-03-11 17:13:01,372:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-11 17:13:01,376:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:14:16,950:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:14:17,308:FacadeBase:INFO:User test22 created!
+2022-03-11 17:14:17,321:Administrator_Facade:INFO:User test22 created!
+2022-03-11 17:14:17,332:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-11 17:14:17,339:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:15:04,715:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:15:04,969:FacadeBase:INFO:User test22 created!
+2022-03-11 17:15:04,981:Administrator_Facade:INFO:User test22 created!
+2022-03-11 17:15:04,991:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-11 17:15:04,995:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:15:26,339:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:15:34,387:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:15:34,780:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:15:34,780:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 17:15:34,783:FacadeBase:INFO:User testomri created!
+2022-03-11 17:15:34,794:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:15:34,811:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:17:00,890:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:17:01,142:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:17:01,143:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 17:17:01,147:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-11 17:17:01,151:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-11 17:17:19,295:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:17:19,569:FacadeBase:INFO:User testor created!
+2022-03-11 17:17:19,577:Administrator_Facade:INFO:User testor created!
+2022-03-11 17:17:19,585:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:17:41,544:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:17:41,795:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:17:41,795:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 17:17:41,798:FacadeBase:INFO:User testomri created!
+2022-03-11 17:17:41,806:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:17:41,813:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:18:10,446:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:18:10,741:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:18:10,741:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 17:18:10,744:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-11 17:18:34,080:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:18:34,321:FacadeBase:INFO:User testomri created!
+2022-03-11 17:18:34,329:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:18:34,337:Administrator_Facade:INFO:airline created!
+2022-03-11 17:18:37,770:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:18:38,254:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:18:38,254:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:18:38,257:FacadeBase:INFO:User testshir created!
+2022-03-11 17:18:38,267:Administrator_Facade:INFO:User testshir created!
+2022-03-11 17:18:38,275:Administrator_Facade:INFO:airline created!
+2022-03-11 17:18:50,527:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:18:50,776:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:18:50,776:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:18:50,779:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-11 17:19:11,844:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:19:12,560:FacadeBase:INFO:User testor created!
+2022-03-11 17:19:12,577:Administrator_Facade:INFO:User testor created!
+2022-03-11 17:19:12,594:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 17:19:26,466:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:19:26,986:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-03-11 17:19:26,986:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:19:26,994:FacadeBase:INFO:User testkob created!
+2022-03-11 17:19:27,007:Administrator_Facade:INFO:User testkob created!
+2022-03-11 17:19:27,019:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 17:19:41,726:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:19:41,956:FacadeBase:INFO:User test22 created!
+2022-03-11 17:19:41,966:Administrator_Facade:INFO:User test22 created!
+2022-03-11 17:19:41,980:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-11 17:19:41,988:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:20:53,749:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:20:53,997:Administrator_Facade:INFO:customers has been shown!...
+2022-03-11 17:20:53,997:db_repo:INFO:get all
+2022-03-11 17:20:54,000:db_repo:INFO:get all
+2022-03-11 17:20:54,350:FacadeBase:INFO:User testor created!
+2022-03-11 17:20:54,359:Administrator_Facade:INFO:User testor created!
+2022-03-11 17:20:54,368:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:20:54,676:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:20:54,676:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 17:20:54,679:FacadeBase:INFO:User testomri created!
+2022-03-11 17:20:54,688:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:20:54,696:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:20:54,984:FacadeBase:INFO:User testomri created!
+2022-03-11 17:20:54,989:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:20:54,996:Administrator_Facade:INFO:airline created!
+2022-03-11 17:20:55,247:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:20:55,247:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:20:55,249:FacadeBase:INFO:User testshir created!
+2022-03-11 17:20:55,255:Administrator_Facade:INFO:User testshir created!
+2022-03-11 17:20:55,261:Administrator_Facade:INFO:airline created!
+2022-03-11 17:20:55,532:FacadeBase:INFO:User testor created!
+2022-03-11 17:20:55,537:Administrator_Facade:INFO:User testor created!
+2022-03-11 17:20:55,543:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 17:20:55,785:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-03-11 17:20:55,785:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:20:55,787:FacadeBase:INFO:User testkob created!
+2022-03-11 17:20:55,795:Administrator_Facade:INFO:User testkob created!
+2022-03-11 17:20:55,801:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 17:20:56,028:FacadeBase:INFO:User test22 created!
+2022-03-11 17:20:56,035:Administrator_Facade:INFO:User test22 created!
+2022-03-11 17:20:56,043:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-11 17:20:56,047:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:20:56,563:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 17:20:56,794:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-11 17:20:56,799:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 17:20:57,014:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 17:20:57,242:Administrator_Facade:INFO:customer Deleted!
+2022-03-11 17:20:57,246:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 17:20:57,511:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 17:21:15,085:FacadeBase:INFO:flights has been shown!
+2022-03-11 17:21:15,085:db_repo:INFO:get all
+2022-03-11 17:21:15,087:db_repo:INFO:get all
+2022-03-11 17:21:15,323:FacadeBase:INFO:Flight shown!
+2022-03-11 17:21:15,587:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:21:15,590:FacadeBase:ERROR: id*345*, was not found!
+2022-03-11 17:21:15,812:FacadeBase:INFO:flights has been shown
+2022-03-11 17:21:16,039:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:21:16,039:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:21:16,039:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-11 17:21:16,259:FacadeBase:INFO:airlines has been shown!
+2022-03-11 17:21:16,259:db_repo:INFO:get all
+2022-03-11 17:21:16,261:db_repo:INFO:get all
+2022-03-11 17:21:16,482:FacadeBase:INFO:airline  shown!
+2022-03-11 17:21:16,709:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:21:16,711:FacadeBase:ERROR: id*563*, was not found!
+2022-03-11 17:21:16,946:FacadeBase:INFO:Countries has been shown!
+2022-03-11 17:21:16,946:db_repo:INFO:get all
+2022-03-11 17:21:16,949:db_repo:INFO:get all
+2022-03-11 17:21:17,222:FacadeBase:INFO:country  shown!
+2022-03-11 17:21:17,444:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:21:17,446:FacadeBase:ERROR: id*894*, was not found!
+2022-03-11 17:21:17,665:FacadeBase:INFO:User testReem created!
+2022-03-11 17:21:17,942:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-11 17:21:17,942:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-11 17:21:21,807:Anonymous_Facade:ERROR:the password is incorrect
+2022-03-11 17:21:48,730:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:21:48,978:Customer_Facade:INFO:customer updated!
+2022-03-11 17:21:49,237:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:21:49,730:FacadeBase:INFO:Flight shown!
+2022-03-11 17:21:49,732:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:21:49,997:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:21:49,999:FacadeBase:ERROR: id*3*, was not found!
+2022-03-11 17:21:50,246:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:21:50,469:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:21:50,471:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:21:50,688:Customer_Facade:INFO:Ticket for customer shown!
+2022-03-11 17:21:50,899:Customer_Facade:ERROR:Input must be an integer!!
+2022-03-11 17:22:09,145:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:09,448:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:22:09,454:FacadeBase:ERROR: id*3*, was not found!
+2022-03-11 17:22:12,219:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:12,512:FacadeBase:INFO:Flight shown!
+2022-03-11 17:22:12,516:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:22:15,440:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:15,707:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:22:17,755:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:18,027:Customer_Facade:INFO:customer updated!
+2022-03-11 17:22:23,408:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:23,883:FacadeBase:INFO:Flight shown!
+2022-03-11 17:22:23,886:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:22:28,215:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:28,465:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:22:28,470:FacadeBase:ERROR: id*3*, was not found!
+2022-03-11 17:22:32,345:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:32,629:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:22:35,493:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:35,920:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:22:35,929:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:22:39,342:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:39,721:Customer_Facade:INFO:Ticket for customer shown!
+2022-03-11 17:22:42,376:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:42,618:Customer_Facade:ERROR:Input must be an integer!!
+2022-03-11 17:22:47,449:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:22:47,724:FacadeBase:INFO:Flight shown!
+2022-03-11 17:22:47,727:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:24:29,802:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:25:31,568:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:39:35,266:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:39:35,749:FacadeBase:INFO:Flight shown!
+2022-03-11 17:39:35,767:Customer_Facade:INFO:Ticket created!
+2022-03-11 17:39:40,788:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:39:41,240:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:39:41,248:FacadeBase:INFO:Flight shown!
+2022-03-11 17:40:34,444:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:40:34,675:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:40:34,679:FacadeBase:INFO:Flight shown!
+2022-03-11 17:40:34,681:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:40:42,187:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:40:42,480:Customer_Facade:INFO:ticket  Deleted!
+2022-03-11 17:40:51,038:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:40:51,435:Customer_Facade:INFO:customer updated!
+2022-03-11 17:40:54,604:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:40:55,063:Customer_Facade:INFO:customer updated!
+2022-03-11 17:40:55,484:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:40:55,750:FacadeBase:INFO:Flight shown!
+2022-03-11 17:40:55,767:Customer_Facade:INFO:Ticket created!
+2022-03-11 17:40:56,016:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:40:56,018:FacadeBase:INFO:Flight shown!
+2022-03-11 17:40:56,020:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:40:56,259:Customer_Facade:INFO:ticket  Deleted!
+2022-03-11 17:40:56,494:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:40:56,496:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:40:56,746:Customer_Facade:INFO:Ticket for customer shown!
+2022-03-11 17:40:56,973:Customer_Facade:ERROR:Input must be an integer!!
+2022-03-11 17:41:12,209:Anonymous_Facade:ERROR:The User-matan- Not found
+2022-03-11 17:41:31,980:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:41:32,257:Airline_Facade:ERROR:<class 'errors.error_airline_not_found.AirlineNotFound'> - Airline #3 was not found!
+2022-03-11 17:41:32,623:Airline_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - Input must be an integer!!
+2022-03-11 17:41:32,625:Airline_Facade:ERROR:<class 'errors.error_airline_not_found.AirlineNotFound'> - Airline #11 was not found!
+2022-03-11 17:41:32,877:Airline_Facade:INFO:Flight created!
+2022-03-11 17:41:33,123:Airline_Facade:ERROR:Input must be an "Flights" object!
+2022-03-11 17:41:33,383:Airline_Facade:INFO:airline updated!
+2022-03-11 17:41:33,612:Airline_Facade:ERROR:Input must be a dictionary!
+2022-03-11 17:41:33,612:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:41:33,843:FacadeBase:INFO:Flight shown!
+2022-03-11 17:41:33,850:Airline_Facade:INFO:flight updated!
+2022-03-11 17:41:34,090:Airline_Facade:ERROR:Input must be a dictionary!
+2022-03-11 17:41:34,090:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:41:34,093:FacadeBase:ERROR: id*52*, was not found!
+2022-03-11 17:41:34,325:FacadeBase:INFO:Flight shown!
+2022-03-11 17:41:34,326:db_repo:INFO:get all
+2022-03-11 17:42:01,554:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:42:01,796:Airline_Facade:ERROR:<class 'errors.error_airline_not_found.AirlineNotFound'> - Airline #3 was not found!
+2022-03-11 17:42:37,449:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:42:37,686:Airline_Facade:INFO:Flight(s) for #2 Displayed!
+2022-03-11 17:42:41,325:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:42:41,654:Airline_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - Input must be an integer!!
+2022-03-11 17:42:41,656:Airline_Facade:ERROR:<class 'errors.error_airline_not_found.AirlineNotFound'> - Airline #11 was not found!
+2022-03-11 17:42:44,626:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:42:44,943:Airline_Facade:INFO:Flight created!
+2022-03-11 17:43:21,235:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:21,498:Airline_Facade:INFO:Flight created!
+2022-03-11 17:43:24,958:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:25,238:Airline_Facade:ERROR:Input must be an "Flights" object!
+2022-03-11 17:43:27,965:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:28,232:Airline_Facade:INFO:airline updated!
+2022-03-11 17:43:30,516:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:30,770:Airline_Facade:ERROR:Input must be a dictionary!
+2022-03-11 17:43:30,770:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:43:33,434:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:33,802:FacadeBase:INFO:Flight shown!
+2022-03-11 17:43:33,810:Airline_Facade:INFO:flight updated!
+2022-03-11 17:43:36,140:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:36,386:Airline_Facade:ERROR:Input must be a dictionary!
+2022-03-11 17:43:36,386:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:43:36,388:FacadeBase:ERROR: id*52*, was not found!
+2022-03-11 17:43:38,857:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:43:39,121:FacadeBase:INFO:Flight shown!
+2022-03-11 17:43:39,123:db_repo:INFO:get all
+2022-03-11 17:44:07,174:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:44:07,444:FacadeBase:INFO:Flight shown!
+2022-03-11 17:44:07,446:db_repo:INFO:get all
+2022-03-11 17:44:14,115:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:44:14,405:FacadeBase:INFO:Flight shown!
+2022-03-11 17:44:14,408:db_repo:INFO:get all
+2022-03-11 17:44:14,427:Airline_Facade:INFO:Flight  Deleted!
+2022-03-11 17:44:19,424:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:44:19,857:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:44:19,862:FacadeBase:ERROR: id*78*, was not found!
+2022-03-11 17:44:25,488:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:44:25,760:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:44:25,763:FacadeBase:ERROR: id*78*, was not found!
+2022-03-11 17:44:29,458:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-03-11 17:44:29,714:Airline_Facade:INFO:Flight(s) for #2 Displayed!
+2022-03-11 17:44:29,950:Airline_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - Input must be an integer!!
+2022-03-11 17:44:29,952:Airline_Facade:ERROR:<class 'errors.error_airline_not_found.AirlineNotFound'> - Airline #11 was not found!
+2022-03-11 17:44:30,257:Airline_Facade:INFO:Flight created!
+2022-03-11 17:44:30,481:Airline_Facade:ERROR:Input must be an "Flights" object!
+2022-03-11 17:44:30,724:Airline_Facade:INFO:airline updated!
+2022-03-11 17:44:30,963:Airline_Facade:ERROR:Input must be a dictionary!
+2022-03-11 17:44:30,963:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:44:31,260:FacadeBase:INFO:Flight shown!
+2022-03-11 17:44:31,268:Airline_Facade:INFO:flight updated!
+2022-03-11 17:44:31,538:Airline_Facade:ERROR:Input must be a dictionary!
+2022-03-11 17:44:31,538:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:44:31,540:FacadeBase:ERROR: id*52*, was not found!
+2022-03-11 17:44:31,766:FacadeBase:INFO:Flight shown!
+2022-03-11 17:44:31,768:db_repo:INFO:get all
+2022-03-11 17:44:31,784:Airline_Facade:INFO:Flight  Deleted!
+2022-03-11 17:44:32,011:Airline_Facade:ERROR:Input must be an integer!
+2022-03-11 17:44:32,013:FacadeBase:ERROR: id*78*, was not found!
+2022-03-11 17:44:47,371:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:44:47,631:Anonymous_Facade:ERROR:password must be string!
+2022-03-11 17:44:47,632:Anonymous_Facade:ERROR:username must be string!
+2022-03-11 17:44:47,635:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-03-11 17:44:47,638:Anonymous_Facade:ERROR:the password is incorrect
+2022-03-11 17:44:47,919:FacadeBase:INFO:User test created!
+2022-03-11 17:44:47,927:Anonymous_Facade:INFO:User test created!
+2022-03-11 17:44:47,935:Anonymous_Facade:INFO:Customer test one  created!
+2022-03-11 17:44:47,937:FacadeBase:INFO:User test created!
+2022-03-11 17:44:48,191:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-03-11 17:44:48,191:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-11 17:45:06,106:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:45:06,416:Customer_Facade:INFO:customer updated!
+2022-03-11 17:45:06,760:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:45:06,992:FacadeBase:INFO:Flight shown!
+2022-03-11 17:45:07,005:Customer_Facade:INFO:Ticket created!
+2022-03-11 17:45:07,231:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:45:07,233:FacadeBase:INFO:Flight shown!
+2022-03-11 17:45:07,234:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:45:07,470:Customer_Facade:INFO:ticket  Deleted!
+2022-03-11 17:45:07,726:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:45:07,729:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:45:07,995:Customer_Facade:INFO:Ticket for customer shown!
+2022-03-11 17:45:08,270:Customer_Facade:ERROR:Input must be an integer!!
+2022-03-11 17:45:12,900:FacadeBase:INFO:flights has been shown!
+2022-03-11 17:45:12,900:db_repo:INFO:get all
+2022-03-11 17:45:12,903:db_repo:INFO:get all
+2022-03-11 17:45:13,268:FacadeBase:INFO:Flight shown!
+2022-03-11 17:45:13,513:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:45:13,515:FacadeBase:ERROR: id*345*, was not found!
+2022-03-11 17:45:13,776:FacadeBase:INFO:flights has been shown
+2022-03-11 17:45:14,081:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:45:14,081:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:45:14,081:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-11 17:45:14,325:FacadeBase:INFO:airlines has been shown!
+2022-03-11 17:45:14,325:db_repo:INFO:get all
+2022-03-11 17:45:14,327:db_repo:INFO:get all
+2022-03-11 17:45:14,584:FacadeBase:INFO:airline  shown!
+2022-03-11 17:45:14,869:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:45:14,871:FacadeBase:ERROR: id*563*, was not found!
+2022-03-11 17:45:15,189:FacadeBase:INFO:Countries has been shown!
+2022-03-11 17:45:15,189:db_repo:INFO:get all
+2022-03-11 17:45:15,194:db_repo:INFO:get all
+2022-03-11 17:45:15,475:FacadeBase:INFO:country  shown!
+2022-03-11 17:45:15,755:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:45:15,757:FacadeBase:ERROR: id*894*, was not found!
+2022-03-11 17:45:16,003:FacadeBase:INFO:User testReem created!
+2022-03-11 17:45:16,309:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-11 17:45:16,309:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-11 17:45:32,380:FacadeBase:INFO:flights has been shown!
+2022-03-11 17:45:32,380:db_repo:INFO:get all
+2022-03-11 17:45:32,382:db_repo:INFO:get all
+2022-03-11 17:45:35,721:FacadeBase:INFO:Flight shown!
+2022-03-11 17:45:38,691:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:45:38,693:FacadeBase:ERROR: id*345*, was not found!
+2022-03-11 17:45:41,840:FacadeBase:INFO:flights has been shown
+2022-03-11 17:46:03,269:FacadeBase:INFO:flights has been shown
+2022-03-11 17:49:09,252:FacadeBase:INFO:flights has been shown
+2022-03-11 17:50:01,885:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:01,885:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:01,885:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-11 17:50:05,075:FacadeBase:INFO:airlines has been shown!
+2022-03-11 17:50:05,075:db_repo:INFO:get all
+2022-03-11 17:50:05,078:db_repo:INFO:get all
+2022-03-11 17:50:08,147:FacadeBase:INFO:airline  shown!
+2022-03-11 17:50:10,679:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:10,682:FacadeBase:ERROR: id*563*, was not found!
+2022-03-11 17:50:13,092:FacadeBase:INFO:Countries has been shown!
+2022-03-11 17:50:13,093:db_repo:INFO:get all
+2022-03-11 17:50:13,099:db_repo:INFO:get all
+2022-03-11 17:50:15,171:FacadeBase:INFO:country  shown!
+2022-03-11 17:50:17,234:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:17,242:FacadeBase:ERROR: id*894*, was not found!
+2022-03-11 17:50:19,323:FacadeBase:INFO:User testReem created!
+2022-03-11 17:50:21,148:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-11 17:50:21,149:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-11 17:50:26,169:FacadeBase:INFO:flights has been shown!
+2022-03-11 17:50:26,169:db_repo:INFO:get all
+2022-03-11 17:50:26,171:db_repo:INFO:get all
+2022-03-11 17:50:26,399:FacadeBase:INFO:Flight shown!
+2022-03-11 17:50:26,716:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:26,718:FacadeBase:ERROR: id*345*, was not found!
+2022-03-11 17:50:26,956:FacadeBase:INFO:flights has been shown
+2022-03-11 17:50:27,197:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:27,197:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:27,197:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-11 17:50:27,439:FacadeBase:INFO:airlines has been shown!
+2022-03-11 17:50:27,439:db_repo:INFO:get all
+2022-03-11 17:50:27,442:db_repo:INFO:get all
+2022-03-11 17:50:27,679:FacadeBase:INFO:airline  shown!
+2022-03-11 17:50:27,919:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:27,921:FacadeBase:ERROR: id*563*, was not found!
+2022-03-11 17:50:28,151:FacadeBase:INFO:Countries has been shown!
+2022-03-11 17:50:28,151:db_repo:INFO:get all
+2022-03-11 17:50:28,153:db_repo:INFO:get all
+2022-03-11 17:50:28,421:FacadeBase:INFO:country  shown!
+2022-03-11 17:50:28,658:FacadeBase:ERROR:Input must be an integer!
+2022-03-11 17:50:28,661:FacadeBase:ERROR: id*894*, was not found!
+2022-03-11 17:50:28,904:FacadeBase:INFO:User testReem created!
+2022-03-11 17:50:29,133:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-11 17:50:29,133:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-11 17:50:38,075:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-03-11 17:50:38,341:Customer_Facade:INFO:customer updated!
+2022-03-11 17:50:38,568:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:50:38,845:FacadeBase:INFO:Flight shown!
+2022-03-11 17:50:38,859:Customer_Facade:INFO:Ticket created!
+2022-03-11 17:50:39,090:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-03-11 17:50:39,092:FacadeBase:INFO:Flight shown!
+2022-03-11 17:50:39,093:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-03-11 17:50:39,320:Customer_Facade:INFO:ticket  Deleted!
+2022-03-11 17:50:39,544:Customer_Facade:ERROR:Input must be an integer!
+2022-03-11 17:50:39,547:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-03-11 17:50:39,775:Customer_Facade:INFO:Ticket for customer shown!
+2022-03-11 17:50:40,009:Customer_Facade:ERROR:Input must be an integer!!
+2022-03-11 17:54:02,483:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-11 17:54:02,798:Administrator_Facade:INFO:customers has been shown!...
+2022-03-11 17:54:02,798:db_repo:INFO:get all
+2022-03-11 17:54:02,800:db_repo:INFO:get all
+2022-03-11 17:54:03,112:FacadeBase:INFO:User testor created!
+2022-03-11 17:54:03,119:Administrator_Facade:INFO:User testor created!
+2022-03-11 17:54:03,127:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:54:04,054:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:54:04,054:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-11 17:54:04,057:FacadeBase:INFO:User testomri created!
+2022-03-11 17:54:04,065:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:54:04,073:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-11 17:54:04,366:FacadeBase:INFO:User testomri created!
+2022-03-11 17:54:04,372:Administrator_Facade:INFO:User testomri created!
+2022-03-11 17:54:04,378:Administrator_Facade:INFO:airline created!
+2022-03-11 17:54:04,616:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:54:04,616:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-11 17:54:04,618:FacadeBase:INFO:User testshir created!
+2022-03-11 17:54:04,625:Administrator_Facade:INFO:User testshir created!
+2022-03-11 17:54:04,632:Administrator_Facade:INFO:airline created!
+2022-03-11 17:54:04,881:FacadeBase:INFO:User testor created!
+2022-03-11 17:54:04,888:Administrator_Facade:INFO:User testor created!
+2022-03-11 17:54:04,895:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 17:54:05,119:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-03-11 17:54:05,119:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-11 17:54:05,122:FacadeBase:INFO:User testkob created!
+2022-03-11 17:54:05,129:Administrator_Facade:INFO:User testkob created!
+2022-03-11 17:54:05,136:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-11 17:54:05,383:FacadeBase:INFO:User test22 created!
+2022-03-11 17:54:05,391:Administrator_Facade:INFO:User test22 created!
+2022-03-11 17:54:05,400:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-11 17:54:05,404:Administrator_Facade:INFO:administrator Deleted!
+2022-03-11 17:54:05,934:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 17:54:06,156:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-11 17:54:06,159:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 17:54:06,400:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-11 17:54:06,647:Administrator_Facade:INFO:customer Deleted!
+2022-03-11 17:54:06,651:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-11 17:54:06,929:Administrator_Facade:ERROR:Input must be an integer!

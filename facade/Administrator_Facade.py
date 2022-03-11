@@ -28,10 +28,13 @@ class AdministratorFacade(FacadeBase):
         if not self.check_token(Administrators, token):
             self.logger.logger.debug('creating a new airline and user...')
             raise InvalidToken
-        elif not isinstance(airline, Airline_Companies):
+        if not isinstance(airline, Airline_Companies):
             self.logger.logger.error('Admin must be a "Airline_Companies" object!')
             raise Invalid_Input('Input must be a "AirlineCompanies" object!')
-        elif self.repo.get_by_id(Users, Airline_Companies.user_id) is not None:
+        if not isinstance(user, Users):
+            self.logger.logger.error(f'{Invalid_Input} - User must be a "Users" object!')
+            raise Invalid_Input('Input must be a "Users" object!')
+        elif self.repo.get_by_id(Users, airline.user_id) is not None:
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {airline.user_id} already in use!')
             raise UserAlreadyExist
         elif user.user_role == 1:
@@ -53,7 +56,7 @@ class AdministratorFacade(FacadeBase):
         elif len(user.password) < 6:
             self.logger.logger.error(f'{PasswordTooShort} - Use at least 6 characters for the password!')
             raise PasswordTooShort('Use at least 6 characters for the password!')
-        elif self.repo.get_by_id(Users, Customers.user_id) is not None:
+        elif self.repo.get_by_id(Users, customer.user_id) is not None:
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {customer.user_id} already in use!')
             raise UserAlreadyExist
         elif user.user_role == 1:
@@ -66,58 +69,61 @@ class AdministratorFacade(FacadeBase):
         if not self.check_token(Administrators, token):
             self.logger.logger.debug('creating a new customer and user...')
             raise InvalidToken
-        elif not isinstance(administrator, Administrators):
+        if not isinstance(administrator, Administrators):
             self.logger.logger.error('Admin must be a "Administrators" object!')
             raise Invalid_Input('Input must be a "Administrators" object!')
-        elif not isinstance(user, Users):
+        if not isinstance(user, Users):
             self.logger.logger.error(f'{Invalid_Input} - User must be a "Users" object!')
             raise Invalid_Input('Input must be a "Users" object!')
-        elif self.repo.get_by_id(Users, administrator.user_id) is not None:
+        if self.repo.get_by_id(Users, administrator.user_id) is not None:
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {administrator.user_id} already in use!')
             raise UserAlreadyExist
         elif user.user_role == 1:
             self.create_new_user(user)
             self.logger.logger.info(f'User {user.username} created!')
             self.repo.add(administrator)
-            self.logger.logger.info(f'Customer {administrator.first_name} {administrator.last_name}  created!')
+            self.logger.logger.info(f'adnim {administrator.first_name} {administrator.last_name}  created!')
 
     def remove_airline(self, airline_id, token):
         if not self.check_token(Administrators, token):
             self.logger.logger.debug('removing airline ...')
             raise InvalidToken
+        airline1 = self.repo.get_by_id(Customers, airline_id)
         if not isinstance(airline_id, int):
             self.logger.logger.error('Input must be an integer!')
             raise Invalid_Input('Input must be an integer!')
         else:
             self.repo.delete_by_id(Airline_Companies, Airline_Companies.id, airline_id)
             self.logger.logger.info(f'Airline #{airline_id} Deleted!')
-            self.repo.delete_by_id(Users, Users.id, airline_id)
+            self.repo.delete_by_id(Users, Users.id, airline1)
             self.logger.logger.info(f'User #{airline_id} Deleted!')
 
     def remove_customer(self, customer_id, token):
         if not self.check_token(Administrators, token):
             self.logger.logger.debug('removing customer ...')
             raise InvalidToken
+        customer1 = self.repo.get_by_id(Customers, customer_id)
         if not isinstance(customer_id, int):
             self.logger.logger.error('Input must be an integer!')
             raise Invalid_Input('Input must be an integer!')
         else:
             self.repo.delete_by_id(Customers, Customers.id, customer_id)
             self.logger.logger.info('customer Deleted!')
-            self.repo.delete_by_id(Users, Users.id, customer_id)
+            self.repo.delete_by_id(Users, Users.id, customer1)
             self.logger.logger.info(f'User #{customer_id} Deleted!')
 
     def remove_administrator(self, administrator_id, token):
         if not self.check_token(Administrators, token):
             self.logger.logger.debug('removing administrator ...')
             raise InvalidToken
+        admin1 = self.repo.get_by_id(Administrators, administrator_id)
         if not isinstance(administrator_id, int):
             self.logger.logger.error('Input must be an integer!')
             raise Invalid_Input('Input must be an integer!')
         else:
             self.repo.delete_by_id(Administrators, Administrators.id, administrator_id)
             self.logger.logger.info('administrator Deleted!')
-            self.repo.delete_by_id(Users, Users.id, administrator_id)
+            self.repo.delete_by_id(Users, Users.id, admin1)
             self.logger.logger.info(f'User #{administrator_id} Deleted!')
 
     def __str__(self):

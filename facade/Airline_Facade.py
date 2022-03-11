@@ -17,7 +17,6 @@ class AirlineFacade(FacadeBase):
         self.logger = Logger.get_instance()
         self.login_token = LoginToken
 
-##bug
     def get_flights_by_airline(self, airline, token):
         self.logger.logger.debug(f'Attempting to fetch flight(s) for airline #{airline}...')
         if not isinstance(airline, int):

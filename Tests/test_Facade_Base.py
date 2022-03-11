@@ -44,16 +44,16 @@ def test_not_get_flight_by_id(base_facade_object):
 
 
 def test_get_flights_by_parameters(base_facade_object):
-    actual_flight = base_facade_object.get_flights_by_parameters(1, 2, datetime(2022, 10, 4, 10, 29, 1))[0]
+    actual_flight = base_facade_object.get_flights_by_parameters(1, 2, datetime(2022, 1, 1, 10, 10, 10))[0]
 
     expected_flight = Flights()
     expected_flight.id = 1
     expected_flight.airline_company_id = 1
     expected_flight.origin_country_id = 1
     expected_flight.destination_country_id = 2
-    expected_flight.departure_time = datetime(2022, 10, 4, 10, 29, 1)
-    expected_flight.landing_time = datetime(2022, 10, 4, 14, 29, 1)
-    expected_flight.remaining_tickets = 6
+    expected_flight.departure_time = datetime(2022, 1, 1, 10, 10, 10)
+    expected_flight.landing_time = datetime(2022, 1, 24, 10, 29, 1)
+    expected_flight.remaining_tickets = 0
 
     assert actual_flight.id == expected_flight.id
     assert actual_flight.airline_company_id == 1

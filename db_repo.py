@@ -1,7 +1,5 @@
 from datetime import datetime
-
 from sqlalchemy import asc
-
 from logger import Logger
 from tabels.Administrators import Administrators
 from tabels.Airline_Companies import Airline_Companies
@@ -77,7 +75,7 @@ class DbRepo:
     def get_by_ilike(self, table_class, column_name, exp):
         return self.local_session.query(table_class).filter(column_name.ilike(exp)).all()
 
-#SP#
+# SP #
     def get_airline_by_username(self, _username):
         return self.local_session.execute(f'SELECT * FROM get_airline_by_username(\'{_username}\')')
 
@@ -158,11 +156,19 @@ class DbRepo:
             Customers(first_name='or', last_name='cohen', address=' habrosh 85',
                       phone_number='0548736429', credit_card_number='532685938764', user_id=6)])
 
-        self.add_all([
-            Flights(airline_company_id=1, origin_country_id=1,
-                    destination_country_id=2, departure_time=datetime(2022, 10, 4, 10, 29, 1),
-                    landing_time=datetime(2022, 10, 4, 14, 29, 1), remaining_tickets=6),
-            Flights(airline_company_id=1, origin_country_id=3, destination_country_id=1,
-                    departure_time=datetime(2022, 11, 5, 8, 00, 1),
-                    landing_time=datetime(2022, 11, 5, 10, 34, 10),
-                    remaining_tickets=0)])
+        self.add_all([Flights(airline_company_id=1, origin_country_id=1, destination_country_id=2,
+                              departure_time=datetime(2022, 1, 1, 10, 10, 10),
+                              landing_time=datetime(2022, 1, 24, 10, 29, 1), remaining_tickets=0),
+                      Flights(airline_company_id=2, origin_country_id=2,
+                              destination_country_id=1, departure_time=datetime(2022, 3, 18, 10, 12, 10),
+                              landing_time=datetime(2022, 12, 4, 23, 29, 1), remaining_tickets=3),
+                      Flights(airline_company_id=2, origin_country_id=3, destination_country_id=2,
+                              departure_time=datetime(2022, 1, 2, 10, 12, 10),
+                              landing_time=datetime(2022, 1, 24, 10, 29, 1), remaining_tickets=400),
+                      Flights(airline_company_id=1, origin_country_id=1, destination_country_id=3,
+                              departure_time=datetime(2022, 1, 2, 10, 12, 10),
+                              landing_time=datetime(2022, 1, 24, 10, 29, 1), remaining_tickets=0)])
+
+        self.add_all([Tickets(flight_id=1, customer_id=1),
+                      Tickets(flight_id=1, customer_id=2),
+                      Tickets(flight_id=3, customer_id=2)])

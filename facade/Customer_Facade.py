@@ -37,7 +37,7 @@ class CustomerFacade(FacadeBase):
             self.logger.logger.error('Input must be an "Tickets" object!')
             raise Invalid_Input('Input must be an "Tickets" object!')
         flight = self.get_flight_by_id(ticket.flight_id)
-        if flight == None:
+        if flight is None:
             self.logger.logger.error(f'{FlightNotFound} - Flight #{ticket.flight_id} was not found!')
             raise FlightNotFound
         elif flight.remaining_tickets == 0:

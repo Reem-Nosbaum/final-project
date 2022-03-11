@@ -1,9 +1,6 @@
 from datetime import datetime
-
 import pytest
-
 from LoginToken import LoginToken
-from Tests.test_admin_facade import admin_token
 from db_config import local_session
 from db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
@@ -26,7 +23,7 @@ def airline_facade_object():
 @pytest.fixture(scope='session')
 def airline_token():
     an_facade = AnonymousFacade(repo)
-    return an_facade.login('matan', 'm123')
+    return an_facade.login('amit', 'amit98')
 
 
 @pytest.fixture(scope='function', autouse=True)
@@ -35,8 +32,8 @@ def airline_facade_clean():
 
 
 def test_get_flights_by_airline(airline_facade_object, airline_token):
-    assert airline_facade_object.get_flights_by_airline(3, airline_token) ==\
-           repo.get_by_column_value(Flights, Flights.airline_company_id, 3)
+    assert airline_facade_object.get_flights_by_airline(2, airline_token) ==\
+           repo.get_by_column_value(Flights, Flights.airline_company_id, 2)
 
 
 def test_not_get_flights_by_airline(airline_facade_object, airline_token):
@@ -53,7 +50,7 @@ def test_add_flight(airline_facade_object, airline_token):
                               departure_time=datetime(2022, 1, 4, 10, 10, 10),
                               landing_time=datetime(2022, 1, 24, 10, 29, 1), remaining_tickets=44)
     airline_facade_object.add_flight(expected_flight, airline_token)
-    check_flight = repo.get_by_id(Flights, 4)
+    check_flight = repo.get_by_id(Flights, 5)
     assert check_flight == expected_flight
 
 
@@ -109,8 +106,8 @@ def test_not_update_flight(airline_facade_object, airline_token):
 
 
 def test_remove_flight(airline_facade_object, airline_token):
-    airline_facade_object.remove_flight(3, airline_token)
-    assert repo.get_by_id(Flights, 3) is None
+    airline_facade_object.remove_flight(2, airline_token)
+    assert repo.get_by_id(Flights, 2) is None
 
 
 def test_not_remove_flight(airline_facade_object, airline_token):

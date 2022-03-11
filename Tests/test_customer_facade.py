@@ -1,10 +1,7 @@
 import pytest
-
-from Tests.test_admin_facade import admin_token
 from db_config import local_session
 from db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
-from errors.Invalid_Toke import InvalidToken
 from errors.error_no_more_tickets import NoMoreTickets
 from errors.error_ticket_not_found import TicketNotFound
 from facade.Anonymous_Facade import AnonymousFacade
@@ -23,7 +20,7 @@ def customer_facade_object():
 @pytest.fixture(scope='session')
 def customer_token():
     an_facade = AnonymousFacade(repo)
-    return an_facade.login('nir', 'niro2')
+    return an_facade.login('matan89', 'm12312')
 
 
 @pytest.fixture(scope='function', autouse=True)
@@ -53,7 +50,7 @@ def test_not_add_ticket(customer_facade_object, customer_token):
     with pytest.raises(Invalid_Input):
         customer_facade_object.add_ticket('Tickets(flight_id=4, customer_id=1)', customer_token)
     with pytest.raises(NoMoreTickets):
-        customer_facade_object.add_ticket(Tickets(flight_id=3, customer_id=4), customer_token)
+        customer_facade_object.add_ticket(Tickets(flight_id=1, customer_id=1), customer_token)
 
 
 def test_remove_ticket(customer_facade_object, customer_token):

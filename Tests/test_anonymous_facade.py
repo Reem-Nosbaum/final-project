@@ -1,11 +1,8 @@
 import pytest
-
 from db_config import local_session
 from db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.error_Incorrect_password import IncorrectPassword
-from errors.error_password_too_short import PasswordTooShort
-from errors.error_user_exist import UserAlreadyExist
 from errors.error_user_not_found import UserNotFound
 from facade.Anonymous_Facade import AnonymousFacade
 from tabels.Customers import Customers
