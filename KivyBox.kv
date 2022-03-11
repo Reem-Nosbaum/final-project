@@ -1,0 +1,59 @@
+<MyGrid>
+    airline:airline
+    customer:customer
+    admin:admin
+    flights:flights
+    tickets:tickets
+    countries:countries
+
+    GridLayout:
+        cols:1
+        size:root.width, root.height
+
+        GridLayout:
+            cols:2
+
+            Label:
+                text: "Airline Companies"
+            TextInput:
+                id: airline
+                multiline:False
+
+            Label:
+                text: "Customers"
+            TextInput:
+                id: customer
+                multiline:False
+
+            Label:
+                text: "Administrators"
+            TextInput:
+                id: admin
+                multiline:False
+
+            Label:
+                text: "Flights Per Company"
+            TextInput:
+                id: flights
+                multiline:False
+
+            Label:
+                text: "Tickets Per Customer"
+            TextInput:
+                id: tickets
+                multiline:False
+
+            Label:
+                text: "Countries"
+            TextInput:
+                id: countries
+                multiline:False
+
+        Button:
+            text:"Submit"
+            font_size: 40
+            on_press: root.press()
+            #RGB - A
+            background_normal: ''
+            background_color: (0,0,1,0.5)
+

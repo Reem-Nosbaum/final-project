@@ -2,3 +2,4 @@ flask
 pytest
 SQLAlchemy
 psycopg2
+kivy
