@@ -1,4 +1,3 @@
-import kivy
 from kivy.app import App
 from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
@@ -22,8 +21,8 @@ class MyGrid(Widget):
         flights = self.flights.text
         tickets = self.tickets.text
         countries = self.countries.text
-        print(f'hey you just add {airline}-airline,{customer}-customer,'
-              f'{admin}-admin,{flights}-flights, {tickets}-tickets, {countries}-countries ')
+        print(f'You just added {airline} airlines ,{customer}-customers,'
+              f'{admin}-admins,{flights}-flights, {tickets}-tickets, {countries}-countries ')
         self.airline.text = ''
         self.customer.text = ''
         self.admin.text = ''
@@ -32,9 +31,9 @@ class MyGrid(Widget):
         self.countries.text = ''
 
 
-class AwsomApp(App):
+class MyApp(App):
     def build(self):
         return MyGrid()
 
 if __name__ == "__main__":
-    AwsomApp().run()
+    MyApp().run()

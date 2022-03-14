@@ -55,8 +55,8 @@ def test_not_add_administrator(admin_facade_object, admin_token):
         expected_user = Users(username='testomri', password='testomre', email='testomre@jb.com', user_role=1)
         admin_facade_object.add_administrator(expected_admin, expected_user, admin_token)
     with pytest.raises(UserAlreadyExist):
-        expected_admin = Administrators(first_name='testomry', last_name='testnosbaum', user_id=7)
-        expected_user = Users(username='testomri', password='testomre', email='testomre@jb.com', user_role=1)
+        expected_admin = Administrators(first_name='testomry', last_name='testnosbaum', user_id=10)
+        expected_user = Users(username='testomrioo', password='testomre', email='testomre@jb.com', user_role=1)
         admin_facade_object.add_administrator(expected_admin, expected_user, admin_token)
     with pytest.raises(PasswordTooShort):
         expected_admin = Administrators(first_name='testomry', last_name='testnosbaum', user_id=7)

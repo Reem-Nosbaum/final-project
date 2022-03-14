@@ -3260,3 +3260,142 @@
 2022-03-11 17:54:06,647:Administrator_Facade:INFO:customer Deleted!
 2022-03-11 17:54:06,651:Administrator_Facade:INFO:User #3 Deleted!
 2022-03-11 17:54:06,929:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-13 19:20:52,694:FacadeBase:INFO:flights has been shown!
+2022-03-13 19:20:52,695:db_repo:INFO:get all
+2022-03-13 19:20:52,703:db_repo:INFO:get all
+2022-03-13 19:20:53,155:FacadeBase:INFO:Flight shown!
+2022-03-13 19:20:53,755:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:20:53,757:FacadeBase:ERROR: id*345*, was not found!
+2022-03-13 19:20:54,329:FacadeBase:INFO:flights has been shown
+2022-03-13 19:20:55,032:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:20:55,032:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:20:55,032:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-13 19:20:55,388:FacadeBase:INFO:airlines has been shown!
+2022-03-13 19:20:55,388:db_repo:INFO:get all
+2022-03-13 19:20:55,397:db_repo:INFO:get all
+2022-03-13 19:20:56,133:FacadeBase:INFO:airline  shown!
+2022-03-13 19:20:56,597:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:20:56,599:FacadeBase:ERROR: id*563*, was not found!
+2022-03-13 19:20:56,887:FacadeBase:INFO:Countries has been shown!
+2022-03-13 19:20:56,887:db_repo:INFO:get all
+2022-03-13 19:20:56,889:db_repo:INFO:get all
+2022-03-13 19:20:57,224:FacadeBase:INFO:country  shown!
+2022-03-13 19:20:57,570:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:20:57,572:FacadeBase:ERROR: id*894*, was not found!
+2022-03-13 19:20:57,830:FacadeBase:INFO:User testReem created!
+2022-03-13 19:20:58,091:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-13 19:20:58,091:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-13 19:22:17,657:FacadeBase:INFO:flights has been shown!
+2022-03-13 19:22:17,657:db_repo:INFO:get all
+2022-03-13 19:22:17,661:db_repo:INFO:get all
+2022-03-13 19:22:18,010:FacadeBase:INFO:Flight shown!
+2022-03-13 19:22:18,280:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:22:18,282:FacadeBase:ERROR: id*345*, was not found!
+2022-03-13 19:22:18,524:FacadeBase:INFO:flights has been shown
+2022-03-13 19:22:18,779:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:22:18,779:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:22:18,779:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-03-13 19:22:19,014:FacadeBase:INFO:airlines has been shown!
+2022-03-13 19:22:19,014:db_repo:INFO:get all
+2022-03-13 19:22:19,016:db_repo:INFO:get all
+2022-03-13 19:22:19,276:FacadeBase:INFO:airline  shown!
+2022-03-13 19:22:19,531:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:22:19,533:FacadeBase:ERROR: id*563*, was not found!
+2022-03-13 19:22:19,797:FacadeBase:INFO:Countries has been shown!
+2022-03-13 19:22:19,797:db_repo:INFO:get all
+2022-03-13 19:22:19,799:db_repo:INFO:get all
+2022-03-13 19:22:20,097:FacadeBase:INFO:country  shown!
+2022-03-13 19:22:20,416:FacadeBase:ERROR:Input must be an integer!
+2022-03-13 19:22:20,419:FacadeBase:ERROR: id*894*, was not found!
+2022-03-13 19:22:20,755:FacadeBase:INFO:User testReem created!
+2022-03-13 19:22:21,029:FacadeBase:ERROR: Input must be a "Users" object!
+2022-03-13 19:22:21,029:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-03-13 19:22:44,939:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 19:22:45,260:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-13 19:22:45,264:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-13 19:22:51,568:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 19:22:51,819:Administrator_Facade:INFO:customers has been shown!...
+2022-03-13 19:22:51,819:db_repo:INFO:get all
+2022-03-13 19:22:51,821:db_repo:INFO:get all
+2022-03-13 19:22:52,070:FacadeBase:INFO:User testor created!
+2022-03-13 19:22:52,080:Administrator_Facade:INFO:User testor created!
+2022-03-13 19:22:52,089:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-13 19:22:52,393:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 19:22:52,393:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 19:22:52,395:FacadeBase:INFO:User testomri created!
+2022-03-13 19:22:52,403:Administrator_Facade:INFO:User testomri created!
+2022-03-13 19:22:52,410:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-13 19:22:52,723:FacadeBase:INFO:User testomri created!
+2022-03-13 19:22:52,729:Administrator_Facade:INFO:User testomri created!
+2022-03-13 19:22:52,735:Administrator_Facade:INFO:airline created!
+2022-03-13 19:22:53,007:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-13 19:22:53,008:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-03-13 19:22:53,010:FacadeBase:INFO:User testshir created!
+2022-03-13 19:22:53,017:Administrator_Facade:INFO:User testshir created!
+2022-03-13 19:22:53,023:Administrator_Facade:INFO:airline created!
+2022-03-13 19:22:53,281:FacadeBase:INFO:User testor created!
+2022-03-13 19:22:53,288:Administrator_Facade:INFO:User testor created!
+2022-03-13 19:22:53,294:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-13 19:22:53,538:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-03-13 19:22:53,538:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 19:22:53,540:FacadeBase:INFO:User testkob created!
+2022-03-13 19:22:53,546:Administrator_Facade:INFO:User testkob created!
+2022-03-13 19:22:53,553:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-03-13 19:22:53,799:FacadeBase:INFO:User test22 created!
+2022-03-13 19:22:53,805:Administrator_Facade:INFO:User test22 created!
+2022-03-13 19:22:53,811:Administrator_Facade:INFO:adnim test21 test2  created!
+2022-03-13 19:22:53,815:Administrator_Facade:INFO:administrator Deleted!
+2022-03-13 19:22:54,410:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-13 19:22:54,669:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-03-13 19:22:54,674:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-13 19:22:54,927:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-13 19:22:55,174:Administrator_Facade:INFO:customer Deleted!
+2022-03-13 19:22:55,180:Administrator_Facade:INFO:User #3 Deleted!
+2022-03-13 19:22:55,438:Administrator_Facade:ERROR:Input must be an integer!
+2022-03-13 19:23:20,339:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 19:23:20,634:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 19:23:20,634:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 19:23:20,638:FacadeBase:INFO:User testomri created!
+2022-03-13 19:23:20,648:Administrator_Facade:INFO:User testomri created!
+2022-03-13 19:23:20,658:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-13 21:44:02,399:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 21:44:02,738:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 21:44:02,738:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 21:44:02,745:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-13 21:44:02,748:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-13 21:46:34,522:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 21:46:34,830:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 21:46:34,831:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 21:46:34,836:FacadeBase:INFO:User testomri created!
+2022-03-13 21:46:34,849:Administrator_Facade:INFO:User testomri created!
+2022-03-13 21:46:34,863:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-03-13 21:47:16,083:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 21:47:16,343:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 21:47:16,344:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 21:47:16,348:FacadeBase:INFO:User testomri created!
+2022-03-13 21:47:16,359:Administrator_Facade:INFO:User testomri created!
+2022-03-13 21:47:56,422:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 21:47:56,664:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 21:47:56,665:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 21:47:56,667:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-03-13 21:47:56,669:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-13 21:49:33,724:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 21:49:33,996:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 21:49:33,996:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 21:49:33,999:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-03-13 21:49:34,002:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-13 21:50:05,646:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 21:50:05,925:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 21:50:05,925:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 21:50:05,928:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-03-13 21:50:05,930:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-13 22:28:30,342:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-13 22:28:30,637:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-13 22:28:30,637:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-13 22:28:30,640:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-03-13 22:28:30,643:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-03-14 07:21:34,524:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-03-14 07:21:35,107:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-03-14 07:21:35,107:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-03-14 07:21:35,116:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-03-14 07:21:35,125:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!

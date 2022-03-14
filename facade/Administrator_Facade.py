@@ -75,7 +75,7 @@ class AdministratorFacade(FacadeBase):
         if not isinstance(user, Users):
             self.logger.logger.error(f'{Invalid_Input} - User must be a "Users" object!')
             raise Invalid_Input('Input must be a "Users" object!')
-        if self.repo.get_by_id(Users, administrator.user_id) is not None:
+        if not self.repo.get_by_id(Users, administrator.user_id):
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {administrator.user_id} already in use!')
             raise UserAlreadyExist
         elif user.user_role == 1:
