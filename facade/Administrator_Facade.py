@@ -34,10 +34,10 @@ class AdministratorFacade(FacadeBase):
         if not isinstance(user, Users):
             self.logger.logger.error(f'{Invalid_Input} - User must be a "Users" object!')
             raise Invalid_Input('Input must be a "Users" object!')
-        elif self.repo.get_by_id(Users, airline.user_id) is not None:
+        elif self.repo.get_by_id(Users, user.id) is not None: # get user by username - (user.username)
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {airline.user_id} already in use!')
             raise UserAlreadyExist
-        elif user.user_role == 1:
+        elif user.user_role == 2:
             self.create_new_user(user)
             self.logger.logger.info(f'User {user.username} created!')
             self.repo.add(airline)
@@ -56,10 +56,10 @@ class AdministratorFacade(FacadeBase):
         elif len(user.password) < 6:
             self.logger.logger.error(f'{PasswordTooShort} - Use at least 6 characters for the password!')
             raise PasswordTooShort('Use at least 6 characters for the password!')
-        elif self.repo.get_by_id(Users, customer.user_id) is not None:
+        elif self.repo.get_by_id(Users, user.id) is not None:
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {customer.user_id} already in use!')
             raise UserAlreadyExist
-        elif user.user_role == 1:
+        elif user.user_role == 3:
             self.create_new_user(user)
             self.logger.logger.info(f'User {user.username} created!')
             self.repo.add(customer)
@@ -75,7 +75,7 @@ class AdministratorFacade(FacadeBase):
         if not isinstance(user, Users):
             self.logger.logger.error(f'{Invalid_Input} - User must be a "Users" object!')
             raise Invalid_Input('Input must be a "Users" object!')
-        if not self.repo.get_by_id(Users, administrator.user_id):
+        elif self.repo.get_by_id(Users, user.id) is not None:
             self.logger.logger.error(f'{UserAlreadyExist} - User-ID {administrator.user_id} already in use!')
             raise UserAlreadyExist
         elif user.user_role == 1:
@@ -88,7 +88,7 @@ class AdministratorFacade(FacadeBase):
         if not self.check_token(Administrators, token):
             self.logger.logger.debug('removing airline ...')
             raise InvalidToken
-        airline1 = self.repo.get_by_id(Customers, airline_id)
+        airline1 = self.repo.get_by_id(Airline_Companies, airline_id)
         if not isinstance(airline_id, int):
             self.logger.logger.error('Input must be an integer!')
             raise Invalid_Input('Input must be an integer!')
@@ -123,8 +123,8 @@ class AdministratorFacade(FacadeBase):
         else:
             self.repo.delete_by_id(Administrators, Administrators.id, administrator_id)
             self.logger.logger.info('administrator Deleted!')
-            self.repo.delete_by_id(Users, Users.id, admin1)
-            self.logger.logger.info(f'User #{administrator_id} Deleted!')
+            self.repo.delete_by_id(Users, Users.id, admin1.user_id)
+            self.logger.logger.info(f'User Deleted!')
 
     def __str__(self):
         return f'{super().__init__}'

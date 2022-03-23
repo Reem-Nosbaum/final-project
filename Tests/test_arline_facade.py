@@ -118,4 +118,3 @@ def test_not_remove_flight(airline_facade_object, airline_token):
     invalid_token = LoginToken(0, 'BS', 10)
     with pytest.raises(InvalidToken):
         airline_facade_object.remove_flight(1, invalid_token)
-
