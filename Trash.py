@@ -242,3 +242,12 @@ class AnonymousFacade(FacadeBase):
 
         self.add_all([Tickets(flight_id=1, customer_id=1),
                       Tickets(flight_id=2, customer_id=3)])
+
+
+
+
+    if len(request.form["psw"]) < 6:
+        return render_template('signup.html', pass_too_short=True)
+
+    session['remember'] = request.form.get('remember')
+    return str(session['remember'])
