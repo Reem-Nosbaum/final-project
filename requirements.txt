@@ -1,5 +1,9 @@
-flask
-pytest
-SQLAlchemy
+flask~=2.0.3
+pytest~=6.2.5
+SQLAlchemy~=1.4.28
 psycopg2
-kivy
+kivy~=2.1.0
+Werkzeug~=2.0.3
+httpx~=0.22.0
+trio~=0.20.0
+Faker~=13.3.5

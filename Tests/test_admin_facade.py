@@ -5,11 +5,11 @@ from errors.error_user_exist import UserAlreadyExist
 from facade.Anonymous_Facade import AnonymousFacade
 from facade.Administrator_Facade import AdministratorFacade
 from db_config import local_session
-from db_repo import DbRepo
-from tabels.Administrators import Administrators
-from tabels.Airline_Companies import Airline_Companies
-from tabels.Customers import Customers
-from tabels.Users import Users
+from db_files.db_repo import DbRepo
+from tables.Administrators import Administrators
+from tables.Airline_Companies import Airline_Companies
+from tables.Customers import Customers
+from tables.Users import Users
 
 repo = DbRepo(local_session)
 
@@ -158,8 +158,8 @@ def test_not_remove_airline(admin_facade_object, admin_token):
 
 # bug "has been deleted, or its row is otherwise not present"
 def test_remove_customer(admin_facade_object, admin_token):
-    expected_customer = Customers(first_name='test', last_name='test1', address='test 54',
-                                  phone_number='0508453382', credit_card_number='458545432839', user_id=7)
+    expected_customer = Customers(first_name='testi', last_name='test1', address='test 54',
+                                  phone_number='05084533825', credit_card_number='4585454352839', user_id=8)
     expected_user = Users(username='test12', password='123456', email='test@jb.com', user_role=3)
     admin_facade_object.add_customer(expected_customer, expected_user, admin_token)
     admin_facade_object.remove_customer(3, admin_token)

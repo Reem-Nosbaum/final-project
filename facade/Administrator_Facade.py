@@ -2,13 +2,13 @@ from errors.Invalid_Input import Invalid_Input
 from errors.Invalid_Toke import InvalidToken
 from errors.error_user_exist import UserAlreadyExist
 from facade.FacadeBase import FacadeBase
-from tabels.Customers import Customers
-from tabels.Airline_Companies import Airline_Companies
-from tabels.Administrators import Administrators
-from logger import Logger
+from tables.Customers import Customers
+from tables.Airline_Companies import Airline_Companies
+from tables.Administrators import Administrators
+from db_files.logger import Logger
 from errors.error_password_too_short import PasswordTooShort
 from LoginToken import LoginToken
-from tabels.Users import Users
+from tables.Users import Users
 
 
 class AdministratorFacade(FacadeBase):
@@ -109,7 +109,7 @@ class AdministratorFacade(FacadeBase):
         else:
             self.repo.delete_by_id(Customers, Customers.id, customer_id)
             self.logger.logger.info('customer Deleted!')
-            self.repo.delete_by_id(Users, Users.id, customer1)
+            self.repo.delete_by_id(Users, Users.id, customer1[0].id)
             self.logger.logger.info(f'User #{customer_id} Deleted!')
 
     def remove_administrator(self, administrator_id, token):

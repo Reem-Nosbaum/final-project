@@ -3,10 +3,10 @@ from errors.error_flight_not_found import FlightNotFound
 from errors.error_ticket_not_found import TicketNotFound
 from facade.FacadeBase import FacadeBase
 from errors.Invalid_Toke import InvalidToken
-from tabels.Customers import Customers
-from logger import Logger
-from tabels.Tickets import Tickets
-from tabels.Flights import Flights
+from tables.Customers import Customers
+from db_files.logger import Logger
+from tables.Tickets import Tickets
+from tables.Flights import Flights
 from errors.error_no_more_tickets import NoMoreTickets
 from LoginToken import LoginToken
 

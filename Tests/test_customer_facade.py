@@ -1,13 +1,13 @@
 import pytest
 from db_config import local_session
-from db_repo import DbRepo
+from db_files.db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.error_no_more_tickets import NoMoreTickets
 from errors.error_ticket_not_found import TicketNotFound
 from facade.Anonymous_Facade import AnonymousFacade
 from facade.Customer_Facade import CustomerFacade
-from tabels.Customers import Customers
-from tabels.Tickets import Tickets
+from tables.Customers import Customers
+from tables.Tickets import Tickets
 
 repo = DbRepo(local_session)
 

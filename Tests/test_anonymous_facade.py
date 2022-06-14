@@ -1,12 +1,12 @@
 import pytest
 from db_config import local_session
-from db_repo import DbRepo
+from db_files.db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.error_Incorrect_password import IncorrectPassword
 from errors.error_user_not_found import UserNotFound
 from facade.Anonymous_Facade import AnonymousFacade
-from tabels.Customers import Customers
-from tabels.Users import Users
+from tables.Customers import Customers
+from tables.Users import Users
 
 repo = DbRepo(local_session)
 anonymous_facade = AnonymousFacade(repo)

@@ -16,4 +16,3 @@ Session = sessionmaker()
 engine = create_engine(connection_string, echo=True)
 local_session = Session(bind=engine)
 
-

@@ -4,9 +4,9 @@ from errors.Invalid_Toke import InvalidToken
 from errors.error_airline_not_found import AirlineNotFound
 from errors.error_flight_not_found import FlightNotFound
 from facade.FacadeBase import FacadeBase
-from tabels.Airline_Companies import Airline_Companies
-from tabels.Flights import Flights
-from logger import Logger
+from tables.Airline_Companies import Airline_Companies
+from tables.Flights import Flights
+from db_files.logger import Logger
 from LoginToken import LoginToken
 
 

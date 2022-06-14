@@ -3962,3 +3962,64 @@
 2022-03-23 15:56:22,313:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
 2022-03-23 15:56:23,129:Airline_Facade:ERROR:Input must be an integer!
 2022-03-23 15:56:23,133:FacadeBase:ERROR: id*78*, was not found!
+2022-04-24 19:30:26,645:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-04-24 19:30:26,909:Administrator_Facade:INFO:customers has been shown!...
+2022-04-24 19:30:26,910:db_repo:INFO:get all
+2022-04-24 19:30:26,913:db_repo:INFO:get all
+2022-04-24 19:30:27,325:FacadeBase:INFO:User testor created!
+2022-04-24 19:30:27,335:Administrator_Facade:INFO:User testor created!
+2022-04-24 19:30:27,343:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-04-24 19:30:27,617:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-04-24 19:30:27,617:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-04-24 19:30:27,620:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-04-24 19:30:27,622:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-04-24 19:30:27,878:FacadeBase:INFO:User testomri created!
+2022-04-24 19:30:27,885:Administrator_Facade:INFO:User testomri created!
+2022-04-24 19:30:27,891:Administrator_Facade:INFO:airline created!
+2022-04-24 19:30:28,162:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-04-24 19:30:28,162:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-04-24 19:30:28,164:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-04-24 19:30:28,167:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-04-24 19:30:28,488:FacadeBase:INFO:User testor created!
+2022-04-24 19:30:28,496:Administrator_Facade:INFO:User testor created!
+2022-04-24 19:30:28,504:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-04-24 19:30:28,774:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-04-24 19:30:28,774:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-04-24 19:30:28,777:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-04-24 19:30:28,777:Administrator_Facade:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-04-24 19:30:29,033:FacadeBase:INFO:User test22 created!
+2022-04-24 19:30:29,042:Administrator_Facade:INFO:User test22 created!
+2022-04-24 19:30:29,050:Administrator_Facade:INFO:adnim test2 test2  created!
+2022-04-24 19:30:29,057:Administrator_Facade:INFO:administrator Deleted!
+2022-04-24 19:30:29,486:Administrator_Facade:ERROR:Input must be an integer!
+2022-04-24 19:30:29,748:FacadeBase:INFO:User test12 created!
+2022-04-24 19:30:29,757:Administrator_Facade:INFO:User test12 created!
+2022-04-24 19:30:29,763:Administrator_Facade:INFO:airline created!
+2022-04-24 19:30:29,768:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-04-24 19:30:30,360:Administrator_Facade:ERROR:Input must be an integer!
+2022-04-24 19:30:30,614:FacadeBase:INFO:User test12 created!
+2022-04-24 19:30:30,626:Administrator_Facade:INFO:User test12 created!
+2022-04-24 19:30:30,633:Administrator_Facade:INFO:Customer test test1  created!
+2022-04-24 19:30:30,637:Administrator_Facade:INFO:customer Deleted!
+2022-04-24 19:30:31,233:Administrator_Facade:ERROR:Input must be an integer!
+2022-04-24 19:30:47,741:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-04-24 19:30:48,047:FacadeBase:INFO:User test12 created!
+2022-04-24 19:30:48,054:Administrator_Facade:INFO:User test12 created!
+2022-04-24 19:30:48,061:Administrator_Facade:INFO:Customer test test1  created!
+2022-04-24 19:30:48,065:Administrator_Facade:INFO:customer Deleted!
+2022-04-24 19:31:47,080:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-04-24 19:31:47,393:FacadeBase:INFO:User test12 created!
+2022-04-24 19:31:47,402:Administrator_Facade:INFO:User test12 created!
+2022-04-24 19:31:47,410:Administrator_Facade:INFO:Customer test test1  created!
+2022-04-24 19:31:47,414:Administrator_Facade:INFO:customer Deleted!
+2022-04-24 19:37:08,552:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-04-24 19:37:08,798:FacadeBase:INFO:User test12 created!
+2022-04-24 19:37:08,807:Administrator_Facade:INFO:User test12 created!
+2022-04-24 19:38:19,356:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-04-24 19:38:19,744:FacadeBase:INFO:User test12 created!
+2022-04-24 19:38:19,755:Administrator_Facade:INFO:User test12 created!
+2022-04-24 19:40:37,723:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-04-24 19:40:37,975:FacadeBase:INFO:User test22 created!
+2022-04-24 19:40:37,984:Administrator_Facade:INFO:User test22 created!
+2022-04-24 19:40:37,992:Administrator_Facade:INFO:adnim test2 test2  created!
+2022-04-24 19:40:37,997:Administrator_Facade:INFO:administrator Deleted!

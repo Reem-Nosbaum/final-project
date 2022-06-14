@@ -11,6 +11,21 @@ import psycopg2
 
 Builder.load_file('KivyBox.kv')
 
+# Generate lists of countries, customers, airlines, flights, tickets
+# Cannot insert 0
+
+# Countries: use JSON - read json file and create list of countries
+# Customers - use API https://randomuser.me/api/?results=100
+# Airlines - use JSON and randomly generate other data
+# Flights - 1. airline,  country1 -> country2,  date1 -> date2,  remaining tickets
+# Tickets - random customer and flight
+
+# Rabbit producer -> sends the data to flights system
+
+# Rabbit consumer -> recieves the data
+
+# DbRepo -> add data to DB
+
 
 class myThread(threading.Thread):
 

@@ -1,9 +1,9 @@
 from flask import Flask, request
 import json
-from db_repo import DbRepo
+from db_files.db_repo import DbRepo
 from db_config import local_session
-from tabels.Customers import Customers
-from tabels.Users import Users
+from tables.Customers import Customers
+from tables.Users import Users
 
 repo = DbRepo(local_session)
 app = Flask(__name__)
@@ -20,7 +20,7 @@ def convert_to_json(_list):
 
 @app.route("/")
 def home():
-    print('hi')
+    # print('hi')
     return '''
         <html>
             Customers!

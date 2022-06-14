@@ -8,19 +8,23 @@
 
 <h2>Login Form</h2>
 
-<form action="/action_page.php" method="post">
+<form action="/login_process" method="post">
   <div class="imgcontainer">
-    <img src="{{ url_for('static', filename='images/img_avatar2.png')}}" alt="Avatar" class="avatar">
+    <img src="{{ url_for('static', filename='images/login_img_flight.png')}}" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
-    <label for="uname"><b>Username</b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
+    <label for="Username"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="username" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
-
-
+    {% if try_again == True: %}
+      <span style="color: red">Login Failed - Try Again!<br /></span>
+    {% endif %}
+    {% if registered_success == True: %}
+      <span style="color: green">Successfully registered! Try loging in.<br /></span>
+    {% endif %}
     <button type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me

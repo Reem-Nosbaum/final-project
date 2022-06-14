@@ -2,15 +2,15 @@ from datetime import datetime
 import pytest
 from LoginToken import LoginToken
 from db_config import local_session
-from db_repo import DbRepo
+from db_files.db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.Invalid_Toke import InvalidToken
 from errors.error_airline_not_found import AirlineNotFound
 from errors.error_flight_not_found import FlightNotFound
 from facade.Airline_Facade import AirlineFacade
 from facade.Anonymous_Facade import AnonymousFacade
-from tabels.Airline_Companies import Airline_Companies
-from tabels.Flights import Flights
+from tables.Airline_Companies import Airline_Companies
+from tables.Flights import Flights
 
 repo = DbRepo(local_session)
 

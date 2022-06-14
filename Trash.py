@@ -82,19 +82,13 @@ repo.add_all(tickets_list := [Tickets(flight_id=1, customer_id=1),
 ##
 
 
-
-
-
-from errors import error_user_not_found
 from errors.Invalid_Input import Invalid_Input
-from facade.Administrator_Facade import AdministratorFacade
-from facade.Customer_Facade import CustomerFacade
 from facade.FacadeBase import FacadeBase
-from logger import Logger
+from db_files.logger import Logger
 from errors.error_password_too_short import PasswordTooShort
 from LoginToken import LoginToken
-from tabels.Users import Users
-from tabels.Customers import Customers
+from tables.Users import Users
+from tables.Customers import Customers
 from errors.error_Incorrect_password import IncorrectPassword
 from errors.error_user_not_found import UserNotFound
 

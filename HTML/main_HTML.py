@@ -1,33 +1,17 @@
-import datetime
-import flask
-from flask import Flask, render_template, url_for, request
-from flask import Flask, render_template, request, jsonify, make_response, session
+from flask import url_for
+from flask import Flask, render_template, request, make_response, session
 from werkzeug.security import check_password_hash, generate_password_hash
 import flask
-import jwt
-import json
-import uuid
 from db_config import local_session
-from db_repo import DbRepo
-from flask_session import Session
+from db_files.db_repo import DbRepo
 
-from tabels.Users import Users
+from tables.Users import Users
 
 repo = DbRepo(local_session)
 app = Flask(__name__)
+app.secret_key = 'top secret'
 app.config["SESSION_PERMANENT"] = False
 app.config["SESSION_TYPE"] = "filesystem"
-Session(app)
-
-
-# cleaning & jsoning data recieved from SQLACLCHEMY
-def convert_to_json(_list):
-    json_list = []
-    for i in _list:
-        _dict = i.__dict__
-        _dict.pop('_sa_instance_state', None)
-        json_list.append(_dict)
-    return json_list
 
 
 @app.route("/")
@@ -35,7 +19,8 @@ def home():
     try:
         if session['remember'] == 'on':
             return flask.redirect(url_for('login_success'))
-    except: pass
+    except:
+        pass
     return flask.redirect(url_for('login'))
 
 
@@ -48,9 +33,9 @@ def login():
 def login_success():
     try:
         if session['username'] is not None:
-                user = repo.get_by_column_value(Users, Users.username, session['username'])
-                if user[0] is not None:
-                    return render_template('my_app.html')
+            user = repo.get_by_column_value(Users, Users.username, session['username'])
+            if user[0] is not None:
+                return render_template('my_app.html')
     except:
         pass
     return make_response('Could not verify', 401)
@@ -71,7 +56,8 @@ def handel_login():
                 session['username'] = username
                 session['pwd'] = password
             return flask.redirect(url_for('login_success'))
-    except: pass
+    except:
+        pass
     return render_template('login.html', try_again=True)
 
 
@@ -106,7 +92,7 @@ def handle_signup():
                                status=201, mimetype='application/json')
 
 
-@app.route('/logout', methods=['GET'])
+# @app.route('/logout', methods=['GET'])
 def logging_out():
     session['jwt'], session['remember'], session['username'], session['pwd'] = None, None, None, None
     return flask.redirect(url_for('login'))

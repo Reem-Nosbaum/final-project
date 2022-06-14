@@ -6,14 +6,14 @@ from errors.Invalid_Input import Invalid_Input
 from errors.error_airline_not_found import AirlineNotFound
 from errors.error_flight_not_found import FlightNotFound
 from errors.error_invalid_country import InvalidCountry
-from tabels.Administrators import Administrators
-from tabels.Customers import Customers
-from tabels.Users import Users
-from logger import Logger
+from tables.Administrators import Administrators
+from tables.Customers import Customers
+from tables.Users import Users
+from db_files.logger import Logger
 from abc import ABC, abstractmethod
-from tabels.Flights import Flights
-from tabels.Airline_Companies import Airline_Companies
-from tabels.Countries import Countries
+from tables.Flights import Flights
+from tables.Airline_Companies import Airline_Companies
+from tables.Countries import Countries
 from errors.error_password_too_short import PasswordTooShort
 
 

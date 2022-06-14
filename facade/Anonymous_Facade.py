@@ -1,9 +1,9 @@
 from errors.Invalid_Input import Invalid_Input
 from facade.FacadeBase import FacadeBase
-from logger import Logger
+from db_files.logger import Logger
 from LoginToken import LoginToken
-from tabels.Users import Users
-from tabels.Customers import Customers
+from tables.Users import Users
+from tables.Customers import Customers
 from errors.error_Incorrect_password import IncorrectPassword
 from errors.error_user_not_found import UserNotFound
 

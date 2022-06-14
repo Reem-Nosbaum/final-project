@@ -1,14 +1,14 @@
 from datetime import datetime
 from sqlalchemy import asc
-from logger import Logger
-from tabels.Administrators import Administrators
-from tabels.Airline_Companies import Airline_Companies
-from tabels.Countries import Countries
-from tabels.Customers import Customers
-from tabels.Flights import Flights
-from tabels.Tickets import Tickets
-from tabels.User_Roles import User_Roles
-from tabels.Users import Users
+from db_files.logger import Logger
+from tables.Administrators import Administrators
+from tables.Airline_Companies import Airline_Companies
+from tables.Countries import Countries
+from tables.Customers import Customers
+from tables.Flights import Flights
+from tables.Tickets import Tickets
+from tables.User_Roles import User_Roles
+from tables.Users import Users
 
 
 class DbRepo:
@@ -111,6 +111,16 @@ class DbRepo:
         self.delete_table('customers')
         self.delete_table('users')
         self.delete_table('user_roles')
+
+    def reset_all_tables_auto_inc(self):
+        self.reset_auto_inc(Countries)
+        self.reset_auto_inc(User_Roles)
+        self.reset_auto_inc(Users)
+        self.reset_auto_inc(Administrators)
+        self.reset_auto_inc(Airline_Companies)
+        self.reset_auto_inc(Customers)
+        self.reset_auto_inc(Flights)
+        self.reset_auto_inc(Tickets)
 
     def reset_db(self):
         self.logger.logger.debug(f'resetting initial DB.')
