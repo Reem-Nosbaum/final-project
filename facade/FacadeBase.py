@@ -9,7 +9,7 @@ from errors.error_invalid_country import InvalidCountry
 from tables.Administrators import Administrators
 from tables.Customers import Customers
 from tables.Users import Users
-from db_files.logger import Logger
+from logger import Logger
 from abc import ABC, abstractmethod
 from tables.Flights import Flights
 from tables.Airline_Companies import Airline_Companies

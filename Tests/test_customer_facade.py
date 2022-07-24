@@ -1,6 +1,6 @@
 import pytest
 from db_config import local_session
-from db_files.db_repo import DbRepo
+from db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.error_no_more_tickets import NoMoreTickets
 from errors.error_ticket_not_found import TicketNotFound

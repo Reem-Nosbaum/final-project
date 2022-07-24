@@ -4,7 +4,7 @@ from errors.error_ticket_not_found import TicketNotFound
 from facade.FacadeBase import FacadeBase
 from errors.Invalid_Toke import InvalidToken
 from tables.Customers import Customers
-from db_files.logger import Logger
+from logger import Logger
 from tables.Tickets import Tickets
 from tables.Flights import Flights
 from errors.error_no_more_tickets import NoMoreTickets

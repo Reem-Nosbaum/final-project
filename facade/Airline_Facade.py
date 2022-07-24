@@ -6,7 +6,7 @@ from errors.error_flight_not_found import FlightNotFound
 from facade.FacadeBase import FacadeBase
 from tables.Airline_Companies import Airline_Companies
 from tables.Flights import Flights
-from db_files.logger import Logger
+from logger import Logger
 from LoginToken import LoginToken
 
 

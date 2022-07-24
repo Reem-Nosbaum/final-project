@@ -4023,3 +4023,123 @@
 2022-04-24 19:40:37,984:Administrator_Facade:INFO:User test22 created!
 2022-04-24 19:40:37,992:Administrator_Facade:INFO:adnim test2 test2  created!
 2022-04-24 19:40:37,997:Administrator_Facade:INFO:administrator Deleted!
+2022-06-14 12:11:13,534:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-06-14 12:11:13,822:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-06-14 12:11:13,822:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-06-14 12:11:13,825:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-06-14 12:11:13,825:Administrator_Facade:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-06-14 12:11:23,022:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-06-14 12:11:23,300:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-06-14 12:11:23,301:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-06-14 12:11:23,303:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-06-14 12:11:23,303:Administrator_Facade:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-06-14 12:11:27,439:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-06-14 12:11:27,718:FacadeBase:INFO:User test12 created!
+2022-06-14 12:11:27,728:Administrator_Facade:INFO:User test12 created!
+2022-06-14 12:11:27,737:Administrator_Facade:INFO:airline created!
+2022-06-14 12:11:27,744:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-06-14 12:11:44,279:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-06-14 12:11:44,718:Anonymous_Facade:ERROR:password must be string!
+2022-06-14 12:11:44,718:Anonymous_Facade:ERROR:username must be string!
+2022-06-14 12:11:44,722:Anonymous_Facade:ERROR:The User-sean12- Not found
+2022-06-14 12:11:44,725:Anonymous_Facade:ERROR:the password is incorrect
+2022-06-14 12:11:45,004:FacadeBase:INFO:User test created!
+2022-06-14 12:11:45,011:Anonymous_Facade:INFO:User test created!
+2022-06-14 12:11:45,018:Anonymous_Facade:INFO:Customer test one  created!
+2022-06-14 12:11:45,019:FacadeBase:INFO:User test created!
+2022-06-14 12:11:45,276:Anonymous_Facade:ERROR:Customer must be a "Customers" object!
+2022-06-14 12:11:45,276:FacadeBase:ERROR: Input must be a "Users" object!
+2022-06-14 12:11:50,130:Anonymous_Facade:INFO:WELCOME, AIRLINE amit
+2022-06-14 12:11:50,433:Airline_Facade:INFO:Flight(s) for #2 Displayed!
+2022-06-14 12:11:50,682:Airline_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - Input must be an integer!!
+2022-06-14 12:11:50,685:Airline_Facade:ERROR:<class 'errors.error_airline_not_found.AirlineNotFound'> - Airline #11 was not found!
+2022-06-14 12:11:50,951:Airline_Facade:INFO:Flight created!
+2022-06-14 12:11:51,196:Airline_Facade:ERROR:Input must be an "Flights" object!
+2022-06-14 12:11:51,453:Airline_Facade:INFO:airline updated!
+2022-06-14 12:11:51,693:Airline_Facade:ERROR:Input must be a dictionary!
+2022-06-14 12:11:51,693:Airline_Facade:ERROR:Input must be an integer!
+2022-06-14 12:11:51,947:FacadeBase:INFO:Flight shown!
+2022-06-14 12:11:51,953:Airline_Facade:INFO:flight updated!
+2022-06-14 12:11:52,201:Airline_Facade:ERROR:Input must be a dictionary!
+2022-06-14 12:11:52,201:Airline_Facade:ERROR:Input must be an integer!
+2022-06-14 12:11:52,203:FacadeBase:ERROR: id*52*, was not found!
+2022-06-14 12:11:52,447:FacadeBase:INFO:Flight shown!
+2022-06-14 12:11:52,449:db_repo:INFO:get all
+2022-06-14 12:11:52,463:Airline_Facade:INFO:Flight  Deleted!
+2022-06-14 12:11:52,700:Airline_Facade:ERROR:Input must be an integer!
+2022-06-14 12:11:52,702:FacadeBase:ERROR: id*78*, was not found!
+2022-06-14 12:11:57,835:Anonymous_Facade:INFO:WELCOME, CUSTOMER matan89
+2022-06-14 12:11:58,129:Customer_Facade:INFO:customer updated!
+2022-06-14 12:11:58,394:Customer_Facade:ERROR:Input must be an integer!
+2022-06-14 12:11:58,650:FacadeBase:INFO:Flight shown!
+2022-06-14 12:11:58,663:Customer_Facade:INFO:Ticket created!
+2022-06-14 12:11:58,890:Customer_Facade:ERROR:Input must be an "Tickets" object!
+2022-06-14 12:11:58,892:FacadeBase:INFO:Flight shown!
+2022-06-14 12:11:58,894:Customer_Facade:ERROR:<class 'errors.error_no_more_tickets.NoMoreTickets'> - No seats available. Ticket canceled!
+2022-06-14 12:11:59,144:Customer_Facade:INFO:ticket  Deleted!
+2022-06-14 12:11:59,379:Customer_Facade:ERROR:Input must be an integer!
+2022-06-14 12:11:59,382:Customer_Facade:ERROR:<class 'errors.error_ticket_not_found.TicketNotFound'> - Ticket was not found!
+2022-06-14 12:11:59,624:Customer_Facade:INFO:Ticket for customer shown!
+2022-06-14 12:11:59,858:Customer_Facade:ERROR:Input must be an integer!!
+2022-06-14 12:12:03,383:FacadeBase:INFO:flights has been shown!
+2022-06-14 12:12:03,383:db_repo:INFO:get all
+2022-06-14 12:12:03,386:db_repo:INFO:get all
+2022-06-14 12:12:03,637:FacadeBase:INFO:Flight shown!
+2022-06-14 12:12:03,879:FacadeBase:ERROR:Input must be an integer!
+2022-06-14 12:12:03,881:FacadeBase:ERROR: id*345*, was not found!
+2022-06-14 12:12:04,113:FacadeBase:INFO:flights has been shown
+2022-06-14 12:12:04,355:FacadeBase:ERROR:Input must be an integer!
+2022-06-14 12:12:04,355:FacadeBase:ERROR:Input must be an integer!
+2022-06-14 12:12:04,355:FacadeBase:ERROR:Input must be Input must be a datetime object!
+2022-06-14 12:12:04,579:FacadeBase:INFO:airlines has been shown!
+2022-06-14 12:12:04,579:db_repo:INFO:get all
+2022-06-14 12:12:04,581:db_repo:INFO:get all
+2022-06-14 12:12:04,828:FacadeBase:INFO:airline  shown!
+2022-06-14 12:12:05,054:FacadeBase:ERROR:Input must be an integer!
+2022-06-14 12:12:05,057:FacadeBase:ERROR: id*563*, was not found!
+2022-06-14 12:12:05,282:FacadeBase:INFO:Countries has been shown!
+2022-06-14 12:12:05,283:db_repo:INFO:get all
+2022-06-14 12:12:05,285:db_repo:INFO:get all
+2022-06-14 12:12:05,531:FacadeBase:INFO:country  shown!
+2022-06-14 12:12:05,824:FacadeBase:ERROR:Input must be an integer!
+2022-06-14 12:12:05,826:FacadeBase:ERROR: id*894*, was not found!
+2022-06-14 12:12:06,058:FacadeBase:INFO:User testReem created!
+2022-06-14 12:12:06,290:FacadeBase:ERROR: Input must be a "Users" object!
+2022-06-14 12:12:06,290:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-06-14 12:12:18,731:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-06-14 12:12:18,983:Administrator_Facade:INFO:customers has been shown!...
+2022-06-14 12:12:18,983:db_repo:INFO:get all
+2022-06-14 12:12:18,986:db_repo:INFO:get all
+2022-06-14 12:12:19,227:FacadeBase:INFO:User testor created!
+2022-06-14 12:12:19,233:Administrator_Facade:INFO:User testor created!
+2022-06-14 12:12:19,239:Administrator_Facade:INFO:adnim testomry testnosbaum  created!
+2022-06-14 12:12:19,471:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-06-14 12:12:19,471:Administrator_Facade:ERROR:Admin must be a "Administrators" object!
+2022-06-14 12:12:19,473:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 10 already in use!
+2022-06-14 12:12:19,475:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-06-14 12:12:19,710:FacadeBase:INFO:User testomri created!
+2022-06-14 12:12:19,717:Administrator_Facade:INFO:User testomri created!
+2022-06-14 12:12:19,724:Administrator_Facade:INFO:airline created!
+2022-06-14 12:12:19,955:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-06-14 12:12:19,955:Administrator_Facade:ERROR:Admin must be a "Airline_Companies" object!
+2022-06-14 12:12:19,957:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-06-14 12:12:19,959:FacadeBase:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-06-14 12:12:20,189:FacadeBase:INFO:User testor created!
+2022-06-14 12:12:20,196:Administrator_Facade:INFO:User testor created!
+2022-06-14 12:12:20,202:Administrator_Facade:INFO:Customer testkobi testnaroto  created!
+2022-06-14 12:12:20,430:Administrator_Facade:ERROR:Admin must be a "Customers" object!
+2022-06-14 12:12:20,431:Administrator_Facade:ERROR:<class 'errors.Invalid_Input.Invalid_Input'> - User must be a "Users" object!
+2022-06-14 12:12:20,433:Administrator_Facade:ERROR:<class 'errors.error_user_exist.UserAlreadyExist'> - User-ID 7 already in use!
+2022-06-14 12:12:20,433:Administrator_Facade:ERROR:<class 'errors.error_password_too_short.PasswordTooShort'> - Use at least 6 characters for the password!
+2022-06-14 12:12:20,673:FacadeBase:INFO:User test22 created!
+2022-06-14 12:12:20,680:Administrator_Facade:INFO:User test22 created!
+2022-06-14 12:12:20,686:Administrator_Facade:INFO:adnim test2 test2  created!
+2022-06-14 12:12:20,690:Administrator_Facade:INFO:administrator Deleted!
+2022-06-14 12:12:21,038:Administrator_Facade:ERROR:Input must be an integer!
+2022-06-14 12:12:21,275:FacadeBase:INFO:User test12 created!
+2022-06-14 12:12:21,284:Administrator_Facade:INFO:User test12 created!
+2022-06-14 12:12:21,290:Administrator_Facade:INFO:airline created!
+2022-06-14 12:12:21,293:Administrator_Facade:INFO:Airline #3 Deleted!
+2022-06-14 12:12:21,822:Administrator_Facade:ERROR:Input must be an integer!
+2022-06-14 12:12:22,067:FacadeBase:INFO:User test12 created!
+2022-06-14 12:12:22,077:Administrator_Facade:INFO:User test12 created!

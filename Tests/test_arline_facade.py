@@ -2,7 +2,7 @@ from datetime import datetime
 import pytest
 from LoginToken import LoginToken
 from db_config import local_session
-from db_files.db_repo import DbRepo
+from db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.Invalid_Toke import InvalidToken
 from errors.error_airline_not_found import AirlineNotFound

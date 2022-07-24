@@ -1,6 +1,6 @@
 import pytest
 from db_config import local_session
-from db_files.db_repo import DbRepo
+from db_repo import DbRepo
 from errors.Invalid_Input import Invalid_Input
 from errors.error_Incorrect_password import IncorrectPassword
 from errors.error_user_not_found import UserNotFound

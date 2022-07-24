@@ -1,6 +1,6 @@
 from datetime import datetime
 from sqlalchemy import asc
-from db_files.logger import Logger
+from logger import Logger
 from tables.Administrators import Administrators
 from tables.Airline_Companies import Airline_Companies
 from tables.Countries import Countries

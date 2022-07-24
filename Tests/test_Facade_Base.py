@@ -1,7 +1,7 @@
 from datetime import datetime
 import pytest
 from db_config import local_session
-from db_files.db_repo import DbRepo
+from db_repo import DbRepo
 from errors.error_airline_not_found import AirlineNotFound
 from errors.error_invalid_country import InvalidCountry
 from errors.error_password_too_short import PasswordTooShort

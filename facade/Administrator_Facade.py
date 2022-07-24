@@ -5,7 +5,7 @@ from facade.FacadeBase import FacadeBase
 from tables.Customers import Customers
 from tables.Airline_Companies import Airline_Companies
 from tables.Administrators import Administrators
-from db_files.logger import Logger
+from logger import Logger
 from errors.error_password_too_short import PasswordTooShort
 from LoginToken import LoginToken
 from tables.Users import Users

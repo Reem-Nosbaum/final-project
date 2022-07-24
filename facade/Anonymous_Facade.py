@@ -1,6 +1,6 @@
 from errors.Invalid_Input import Invalid_Input
 from facade.FacadeBase import FacadeBase
-from db_files.logger import Logger
+from logger import Logger
 from LoginToken import LoginToken
 from tables.Users import Users
 from tables.Customers import Customers

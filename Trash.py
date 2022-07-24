@@ -84,7 +84,7 @@ repo.add_all(tickets_list := [Tickets(flight_id=1, customer_id=1),
 
 from errors.Invalid_Input import Invalid_Input
 from facade.FacadeBase import FacadeBase
-from db_files.logger import Logger
+from logger import Logger
 from errors.error_password_too_short import PasswordTooShort
 from LoginToken import LoginToken
 from tables.Users import Users
