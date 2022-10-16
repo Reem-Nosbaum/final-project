@@ -57,7 +57,7 @@ class AirlineFacade(FacadeBase):
         elif flight.remaining_tickets < 0:
             self.logger.logger.error('Negative number of seats is impossible!')
         elif flight.origin_country_id is flight.destination_country_id:
-            self.logger.logger.error('origin country and destination country cannot be the same..')
+            self.logger.logger.error('origin_county country and destination_county country cannot be the same..')
         else:
             self.repo.add(flight)
             self.logger.logger.info('Flight created!')

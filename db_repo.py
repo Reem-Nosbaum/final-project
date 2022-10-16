@@ -143,7 +143,7 @@ class DbRepo:
                       Countries(name='Zimbabwe')])
 
         self.add_all([User_Roles(role_name='administrator'),
-                      User_Roles(role_name='airline company'),
+                      User_Roles(role_name='airline airline_company'),
                       User_Roles(role_name='customer')])
 
         self.add_all([Users(username='reem', password='reem123', email='reemn@jb.com', user_role=1),

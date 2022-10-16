@@ -16,7 +16,7 @@ create_all_entities()
 repo.add_all(countries_list := [Countries(name='israel'), Countries(name='italy')])
 
 repo.add_all(user_roles_list := [User_Roles(role_name='administrator'),
-                                 User_Roles(role_name='airline company'),
+                                 User_Roles(role_name='airline airline_company'),
                                  User_Roles(role_name='customer')])
 
 repo.add_all(users_list := [Users(username='ron32', password='ron123', email='ron95@jb.com', user_role=1),
@@ -177,7 +177,7 @@ class AnonymousFacade(FacadeBase):
                       Countries(name='Zimbabwe')])
 
         self.add_all([User_Roles(role_name='administrator'),
-                      User_Roles(role_name='airline company'),
+                      User_Roles(role_name='airline airline_company'),
                       User_Roles(role_name='customer')])
 
         self.add_all([Users(username='reem', password='reem123', email='reemn@jb.com', user_role=1),

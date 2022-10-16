@@ -126,7 +126,6 @@ def test_not_add_customer(admin_facade_object, admin_token):
         admin_facade_object.add_customer(expected_customer, expected_user, admin_token)
 
 
-# bug "has been deleted, or its row is otherwise not present"
 def test_remove_administrator(admin_facade_object, admin_token):
     expected_admin = Administrators(id=4, first_name='test2', last_name='test2', user_id=7)
     expected_user = Users(username='test22', password='test22', email='test22@jb.com', user_role=1)
@@ -141,7 +140,6 @@ def test_not_remove_administrator(admin_facade_object, admin_token):
         admin_facade_object.remove_administrator('3', admin_token)
 
 
-# bug "has been deleted, or its row is otherwise not present"
 def test_remove_airline(admin_facade_object, admin_token):
     expected_airline = Airline_Companies(name='test air', countries_id=3, user_id=7)
     expected_user = Users(username='test12', password='123456', email='test@jb.com', user_role=2)
@@ -156,7 +154,6 @@ def test_not_remove_airline(admin_facade_object, admin_token):
         admin_facade_object.remove_airline('3', admin_token)
 
 
-# bug "has been deleted, or its row is otherwise not present"
 def test_remove_customer(admin_facade_object, admin_token):
     expected_customer = Customers(first_name='testi', last_name='test1', address='test 54',
                                   phone_number='05084533825', credit_card_number='4585454352839', user_id=8)

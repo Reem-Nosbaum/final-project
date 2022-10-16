@@ -476,3 +476,219 @@
 2022-03-01 15:40:18,781:db_repo:INFO:get all
 2022-03-01 15:40:29,015:db_repo:INFO:get all
 2022-03-01 15:40:34,584:db_repo:INFO:get all
+2022-10-04 21:26:00,245:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:26:00,254:db_repo:INFO:get all
+2022-10-04 21:28:49,352:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:28:49,352:db_repo:INFO:get all
+2022-10-04 21:34:16,062:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:34:16,062:db_repo:INFO:get all
+2022-10-04 21:34:17,884:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:34:17,884:db_repo:INFO:get all
+2022-10-04 21:34:18,430:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:34:18,430:db_repo:INFO:get all
+2022-10-04 21:35:33,554:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:35:33,554:db_repo:INFO:get all
+2022-10-04 21:37:21,287:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:37:21,287:db_repo:INFO:get all
+2022-10-04 21:40:14,523:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:40:14,523:db_repo:INFO:get all
+2022-10-04 21:42:30,596:FacadeBase:INFO:Countries has been shown!
+2022-10-04 21:42:30,597:db_repo:INFO:get all
+2022-10-05 09:37:23,037:FacadeBase:INFO:Countries has been shown!
+2022-10-05 09:37:23,037:db_repo:INFO:get all
+2022-10-05 09:38:06,022:FacadeBase:INFO:Countries has been shown!
+2022-10-05 09:38:06,022:db_repo:INFO:get all
+2022-10-05 09:41:20,373:FacadeBase:INFO:Countries has been shown!
+2022-10-05 09:41:20,373:db_repo:INFO:get all
+2022-10-05 10:01:41,226:FacadeBase:INFO:Countries has been shown!
+2022-10-05 10:01:41,226:db_repo:INFO:get all
+2022-10-05 10:01:44,488:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:01:44,489:db_repo:INFO:get all
+2022-10-05 10:02:46,767:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:02:46,767:db_repo:INFO:get all
+2022-10-05 10:05:36,471:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:05:36,471:db_repo:INFO:get all
+2022-10-05 10:05:38,688:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:05:38,688:db_repo:INFO:get all
+2022-10-05 10:05:40,806:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:05:40,806:db_repo:INFO:get all
+2022-10-05 10:07:07,620:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:07:07,620:db_repo:INFO:get all
+2022-10-05 10:07:08,619:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:07:08,619:db_repo:INFO:get all
+2022-10-05 10:08:55,705:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:08:55,706:db_repo:INFO:get all
+2022-10-05 10:08:56,933:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:08:56,933:db_repo:INFO:get all
+2022-10-05 10:08:57,762:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:08:57,762:db_repo:INFO:get all
+2022-10-05 10:08:58,491:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:08:58,491:db_repo:INFO:get all
+2022-10-05 10:11:36,248:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:11:36,248:db_repo:INFO:get all
+2022-10-05 10:11:37,091:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:11:37,091:db_repo:INFO:get all
+2022-10-05 10:11:37,602:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:11:37,602:db_repo:INFO:get all
+2022-10-05 10:11:37,794:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:11:37,794:db_repo:INFO:get all
+2022-10-05 10:11:39,503:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:11:39,503:db_repo:INFO:get all
+2022-10-05 10:16:20,098:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:16:20,098:db_repo:INFO:get all
+2022-10-05 10:16:20,736:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:16:20,736:db_repo:INFO:get all
+2022-10-05 10:18:38,930:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:18:38,931:db_repo:INFO:get all
+2022-10-05 10:20:40,815:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:20:40,815:db_repo:INFO:get all
+2022-10-05 10:26:07,246:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:26:07,247:db_repo:INFO:get all
+2022-10-05 10:26:08,191:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:26:08,191:db_repo:INFO:get all
+2022-10-05 10:27:38,702:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:27:38,702:db_repo:INFO:get all
+2022-10-05 10:27:39,385:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:27:39,385:db_repo:INFO:get all
+2022-10-05 10:37:35,339:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:37:35,340:db_repo:INFO:get all
+2022-10-05 10:38:22,349:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:38:22,349:db_repo:INFO:get all
+2022-10-05 10:39:52,769:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:39:52,770:db_repo:INFO:get all
+2022-10-05 10:39:53,740:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:39:53,740:db_repo:INFO:get all
+2022-10-05 10:40:05,890:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:40:05,890:db_repo:INFO:get all
+2022-10-05 10:40:52,263:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:40:52,264:db_repo:INFO:get all
+2022-10-05 10:43:00,006:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:43:00,006:db_repo:INFO:get all
+2022-10-05 10:49:25,655:FacadeBase:INFO:flights has been shown!
+2022-10-05 10:49:25,655:db_repo:INFO:get all
+2022-10-05 10:49:27,904:FacadeBase:INFO:Countries has been shown!
+2022-10-05 10:49:27,904:db_repo:INFO:get all
+2022-10-05 10:50:16,990:FacadeBase:INFO:airlines has been shown!
+2022-10-05 10:50:16,990:db_repo:INFO:get all
+2022-10-05 10:56:20,176:FacadeBase:INFO:airline  shown!
+2022-10-05 10:57:06,792:FacadeBase:INFO:airline  shown!
+2022-10-05 10:57:07,751:FacadeBase:INFO:airline  shown!
+2022-10-05 10:58:28,781:FacadeBase:INFO:airline  shown!
+2022-10-05 10:58:33,667:FacadeBase:INFO:airline  shown!
+2022-10-05 10:58:33,968:FacadeBase:INFO:airline  shown!
+2022-10-05 10:58:37,190:FacadeBase:INFO:airline  shown!
+2022-10-05 10:58:37,728:FacadeBase:ERROR: id*3*, was not found!
+2022-10-05 11:02:45,710:FacadeBase:ERROR: id*3*, was not found!
+2022-10-05 11:02:45,727:FacadeBase:INFO:airlines has been shown!
+2022-10-05 11:02:45,727:db_repo:INFO:get all
+2022-10-05 11:02:47,463:FacadeBase:INFO:Countries has been shown!
+2022-10-05 11:02:47,463:db_repo:INFO:get all
+2022-10-05 11:02:49,101:FacadeBase:INFO:Countries has been shown!
+2022-10-05 11:02:49,101:db_repo:INFO:get all
+2022-10-05 11:02:49,963:FacadeBase:INFO:Countries has been shown!
+2022-10-05 11:02:49,963:db_repo:INFO:get all
+2022-10-05 11:02:52,119:FacadeBase:INFO:country  shown!
+2022-10-05 11:02:55,841:FacadeBase:INFO:country  shown!
+2022-10-05 11:02:56,257:FacadeBase:INFO:country  shown!
+2022-10-05 11:02:59,488:FacadeBase:INFO:country  shown!
+2022-10-05 11:04:28,899:FacadeBase:INFO:country  shown!
+2022-10-05 11:04:29,637:FacadeBase:INFO:Countries has been shown!
+2022-10-05 11:04:29,637:db_repo:INFO:get all
+2022-10-05 11:04:30,997:FacadeBase:INFO:flights has been shown!
+2022-10-05 11:04:30,997:db_repo:INFO:get all
+2022-10-05 11:04:33,666:FacadeBase:INFO:Flight shown!
+2022-10-05 11:49:11,012:FacadeBase:INFO:flights has been shown!
+2022-10-05 11:49:11,013:db_repo:INFO:get all
+2022-10-05 12:03:58,453:FacadeBase:INFO:flights has been shown!
+2022-10-05 12:03:58,453:db_repo:INFO:get all
+2022-10-05 12:04:16,751:FacadeBase:INFO:Countries has been shown!
+2022-10-05 12:04:16,751:db_repo:INFO:get all
+2022-10-05 12:05:05,809:FacadeBase:INFO:Countries has been shown!
+2022-10-05 12:05:05,809:db_repo:INFO:get all
+2022-10-05 12:05:29,249:FacadeBase:INFO:flights has been shown!
+2022-10-05 12:05:29,249:db_repo:INFO:get all
+2022-10-05 12:07:57,331:FacadeBase:INFO:flights has been shown!
+2022-10-05 12:07:57,332:db_repo:INFO:get all
+2022-10-05 12:08:25,802:FacadeBase:INFO:flights has been shown!
+2022-10-05 12:08:25,802:db_repo:INFO:get all
+2022-10-05 12:16:10,682:FacadeBase:INFO:flights has been shown!
+2022-10-05 12:16:10,683:db_repo:INFO:get all
+2022-10-05 12:24:26,305:db_repo:WARNING:deleting all tables.
+2022-10-05 12:25:28,498:db_repo:WARNING:deleting all tables.
+2022-10-05 12:25:47,869:FacadeBase:INFO:flights has been shown!
+2022-10-05 12:25:47,870:db_repo:INFO:get all
+2022-10-05 12:35:34,128:FacadeBase:INFO:Flight shown!
+2022-10-05 12:35:49,239:FacadeBase:INFO:Flight shown!
+2022-10-05 12:35:54,146:FacadeBase:INFO:Flight shown!
+2022-10-05 12:35:55,282:FacadeBase:INFO:Flight shown!
+2022-10-05 12:35:56,495:FacadeBase:INFO:Flight shown!
+2022-10-05 12:35:58,664:FacadeBase:ERROR: id*5*, was not found!
+2022-10-05 13:24:48,583:FacadeBase:INFO:Flight shown!
+2022-10-05 13:24:50,435:FacadeBase:INFO:Flight shown!
+2022-10-05 13:24:51,392:FacadeBase:INFO:Flight shown!
+2022-10-05 13:26:49,723:db_repo:WARNING:deleting all tables.
+2022-10-05 13:27:11,774:FacadeBase:INFO:Flight shown!
+2022-10-05 13:27:44,448:FacadeBase:INFO:flights has been shown!
+2022-10-05 13:27:44,448:db_repo:INFO:get all
+2022-10-05 16:29:46,407:FacadeBase:ERROR:The login token "<class 'LoginToken.LoginToken'>" used the function create_user but the user.user_role "None" that was sent does not exist in the db.
+2022-10-05 16:33:20,719:Anonymous_Facade:ERROR:the user.user_role "None" is not 1(Customer).
+2022-10-05 16:35:04,721:FacadeBase:ERROR:The login token "<class 'LoginToken.LoginToken'>" used the function create_user but the user.user_role "None" that was sent does not exist in the db.
+2022-10-06 10:02:13,149:db_repo:WARNING:deleting all tables.
+2022-10-06 10:09:20,926:FacadeBase:INFO:User bob created!
+2022-10-06 10:15:48,133:FacadeBase:INFO:User bob created!
+2022-10-06 10:15:48,204:Anonymous_Facade:INFO:User bob created!
+2022-10-06 10:15:48,217:Anonymous_Facade:INFO:Customer boby brown  created!
+2022-10-06 10:15:48,219:FacadeBase:INFO:User bob created!
+2022-10-06 10:18:17,767:FacadeBase:INFO:User boby created!
+2022-10-06 10:18:17,845:Anonymous_Facade:INFO:User boby created!
+2022-10-06 10:19:00,578:FacadeBase:INFO:User boby created!
+2022-10-06 10:19:35,108:db_repo:WARNING:deleting all tables.
+2022-10-06 10:19:54,299:FacadeBase:INFO:User boby created!
+2022-10-06 10:19:54,348:Anonymous_Facade:INFO:User boby created!
+2022-10-06 10:19:54,360:Anonymous_Facade:INFO:Customer bobydd brown11  created!
+2022-10-06 10:19:54,363:FacadeBase:INFO:User boby created!
+2022-10-06 10:25:31,952:FacadeBase:INFO:User boby created!
+2022-10-06 10:25:32,014:Anonymous_Facade:INFO:User boby created!
+2022-10-06 10:25:32,027:Anonymous_Facade:INFO:Customer bobydd brown11  created!
+2022-10-06 10:25:32,030:FacadeBase:INFO:User boby created!
+2022-10-06 12:22:10,248:FacadeBase:INFO:flights has been shown!
+2022-10-06 12:22:10,248:db_repo:INFO:get all
+2022-10-06 12:22:18,278:FacadeBase:INFO:Flight shown!
+2022-10-06 12:22:20,157:FacadeBase:INFO:Flight shown!
+2022-10-06 12:22:21,104:FacadeBase:INFO:Flight shown!
+2022-10-06 12:23:22,830:FacadeBase:INFO:Countries has been shown!
+2022-10-06 12:23:22,830:db_repo:INFO:get all
+2022-10-06 12:23:25,755:FacadeBase:INFO:country  shown!
+2022-10-06 12:23:27,116:FacadeBase:INFO:country  shown!
+2022-10-06 12:23:28,039:FacadeBase:INFO:country  shown!
+2022-10-06 12:23:28,971:FacadeBase:INFO:country  shown!
+2022-10-06 12:23:29,801:FacadeBase:INFO:country  shown!
+2022-10-06 12:23:31,054:FacadeBase:INFO:country  shown!
+2022-10-06 12:23:32,938:FacadeBase:INFO:Countries has been shown!
+2022-10-06 12:23:32,938:db_repo:INFO:get all
+2022-10-06 12:23:37,613:FacadeBase:ERROR: id*9*, was not found!
+2022-10-08 11:26:40,752:db_repo:WARNING:deleting all tables.
+2022-10-08 11:28:08,836:FacadeBase:INFO:Countries has been shown!
+2022-10-08 11:28:08,836:db_repo:INFO:get all
+2022-10-08 11:28:20,797:FacadeBase:INFO:country  shown!
+2022-10-08 11:28:22,734:FacadeBase:INFO:country  shown!
+2022-10-08 11:28:24,569:FacadeBase:INFO:country  shown!
+2022-10-08 11:28:26,198:FacadeBase:ERROR: id*34*, was not found!
+2022-10-08 11:28:47,642:FacadeBase:INFO:User boby created!
+2022-10-08 11:28:47,712:Anonymous_Facade:INFO:User boby created!
+2022-10-08 11:28:47,724:Anonymous_Facade:INFO:Customer bobydd brown11  created!
+2022-10-08 11:28:47,727:FacadeBase:INFO:User boby created!
+2022-10-09 09:14:00,714:FacadeBase:INFO:User ori created!
+2022-10-09 09:14:00,783:Anonymous_Facade:INFO:User ori created!
+2022-10-09 09:14:00,793:Anonymous_Facade:INFO:Customer ori cohen  created!
+2022-10-09 09:14:00,794:FacadeBase:INFO:User ori created!
+2022-10-09 09:16:10,463:FacadeBase:INFO:User koko created!
+2022-10-09 09:16:10,531:Anonymous_Facade:INFO:User koko created!
+2022-10-09 09:16:42,684:FacadeBase:INFO:User koko created!
+2022-10-09 09:16:53,672:FacadeBase:INFO:User koko33 created!
+2022-10-09 09:17:21,733:FacadeBase:INFO:User koko33 created!
+2022-10-09 09:17:21,800:Anonymous_Facade:INFO:User koko33 created!
+2022-10-09 09:17:21,813:Anonymous_Facade:INFO:Customer oriy3 cohens3  created!
+2022-10-09 09:17:21,815:FacadeBase:INFO:User koko33 created!
+2022-10-09 09:18:17,155:db_repo:WARNING:deleting all tables.
+2022-10-09 09:18:18,287:db_repo:WARNING:deleting all tables.
