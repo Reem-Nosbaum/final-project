@@ -692,3 +692,931 @@
 2022-10-09 09:17:21,815:FacadeBase:INFO:User koko33 created!
 2022-10-09 09:18:17,155:db_repo:WARNING:deleting all tables.
 2022-10-09 09:18:18,287:db_repo:WARNING:deleting all tables.
+2022-10-16 15:34:42,146:FacadeBase:INFO:Countries has been shown!
+2022-10-16 15:34:42,154:db_repo:INFO:get all
+2022-10-16 15:34:49,505:FacadeBase:INFO:country  shown!
+2022-10-16 15:34:51,159:FacadeBase:INFO:country  shown!
+2022-10-16 15:34:52,611:FacadeBase:INFO:country  shown!
+2022-10-16 15:34:53,961:FacadeBase:INFO:country  shown!
+2022-10-16 15:35:01,798:FacadeBase:INFO:Countries has been shown!
+2022-10-16 15:35:01,799:db_repo:INFO:get all
+2022-10-16 15:36:11,114:FacadeBase:INFO:Countries has been shown!
+2022-10-16 15:36:11,114:db_repo:INFO:get all
+2022-10-16 15:36:16,174:FacadeBase:INFO:country  shown!
+2022-10-16 15:36:18,560:FacadeBase:INFO:country  shown!
+2022-10-16 15:36:19,850:FacadeBase:INFO:country  shown!
+2022-10-17 17:32:38,832:FacadeBase:INFO:flights has been shown!
+2022-10-17 17:32:38,833:db_repo:INFO:get all
+2022-10-17 18:59:43,905:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-10-17 18:59:51,719:Anonymous_Facade:ERROR:the password is incorrect
+2022-10-17 19:01:31,334:Anonymous_Facade:ERROR:the password is incorrect
+2022-10-17 19:02:22,630:Anonymous_Facade:ERROR:the password is incorrect
+2022-10-17 19:05:28,238:FacadeBase:INFO:User lololo created!
+2022-10-17 19:05:28,301:Anonymous_Facade:INFO:User lololo created!
+2022-10-17 19:05:28,311:Anonymous_Facade:INFO:Customer roro lolo  created!
+2022-10-17 19:05:28,313:FacadeBase:INFO:User lololo created!
+2022-10-17 19:06:41,967:FacadeBase:INFO:User omry created!
+2022-10-17 19:06:41,975:Anonymous_Facade:INFO:User omry created!
+2022-10-17 19:06:41,983:Anonymous_Facade:INFO:Customer omri nosbaum  created!
+2022-10-17 19:06:41,986:FacadeBase:INFO:User omry created!
+2022-10-17 19:07:15,080:Anonymous_Facade:INFO:WELCOME, CUSTOMER omry
+2022-10-17 19:08:53,135:Anonymous_Facade:INFO:WELCOME, ADMIN reem
+2022-10-18 11:27:10,043:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:27:10,043:db_repo:INFO:get all
+2022-10-18 11:27:10,069:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:27:10,069:db_repo:INFO:get all
+2022-10-18 11:27:12,901:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:27:12,901:db_repo:INFO:get all
+2022-10-18 11:27:12,911:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:27:12,912:db_repo:INFO:get all
+2022-10-18 11:27:28,220:FacadeBase:INFO:flights has been shown!
+2022-10-18 11:27:28,220:db_repo:INFO:get all
+2022-10-18 11:27:40,066:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:27:40,066:db_repo:INFO:get all
+2022-10-18 11:27:40,076:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:27:40,076:db_repo:INFO:get all
+2022-10-18 11:28:33,954:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:28:33,954:db_repo:INFO:get all
+2022-10-18 11:28:33,973:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:28:33,973:db_repo:INFO:get all
+2022-10-18 11:28:40,948:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:28:40,948:db_repo:INFO:get all
+2022-10-18 11:28:40,959:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:28:40,959:db_repo:INFO:get all
+2022-10-18 11:29:29,045:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:29,046:db_repo:INFO:get all
+2022-10-18 11:29:29,075:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:29,076:db_repo:INFO:get all
+2022-10-18 11:29:37,231:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:37,231:db_repo:INFO:get all
+2022-10-18 11:29:37,271:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:37,271:db_repo:INFO:get all
+2022-10-18 11:29:50,141:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:50,141:db_repo:INFO:get all
+2022-10-18 11:29:50,175:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:50,175:db_repo:INFO:get all
+2022-10-18 11:29:53,729:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:53,729:db_repo:INFO:get all
+2022-10-18 11:29:53,740:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:29:53,740:db_repo:INFO:get all
+2022-10-18 11:30:01,669:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:01,669:db_repo:INFO:get all
+2022-10-18 11:30:01,683:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:01,683:db_repo:INFO:get all
+2022-10-18 11:30:03,749:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:03,749:db_repo:INFO:get all
+2022-10-18 11:30:03,759:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:03,759:db_repo:INFO:get all
+2022-10-18 11:30:04,439:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,440:db_repo:INFO:get all
+2022-10-18 11:30:04,449:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,449:db_repo:INFO:get all
+2022-10-18 11:30:04,624:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,624:db_repo:INFO:get all
+2022-10-18 11:30:04,636:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,636:db_repo:INFO:get all
+2022-10-18 11:30:04,780:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,780:db_repo:INFO:get all
+2022-10-18 11:30:04,790:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,790:db_repo:INFO:get all
+2022-10-18 11:30:04,993:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:04,993:db_repo:INFO:get all
+2022-10-18 11:30:05,005:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,005:db_repo:INFO:get all
+2022-10-18 11:30:05,146:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,146:db_repo:INFO:get all
+2022-10-18 11:30:05,157:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,157:db_repo:INFO:get all
+2022-10-18 11:30:05,310:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,310:db_repo:INFO:get all
+2022-10-18 11:30:05,321:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,321:db_repo:INFO:get all
+2022-10-18 11:30:05,507:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,507:db_repo:INFO:get all
+2022-10-18 11:30:05,517:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,518:db_repo:INFO:get all
+2022-10-18 11:30:05,666:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,666:db_repo:INFO:get all
+2022-10-18 11:30:05,678:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,678:db_repo:INFO:get all
+2022-10-18 11:30:05,803:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,803:db_repo:INFO:get all
+2022-10-18 11:30:05,815:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,815:db_repo:INFO:get all
+2022-10-18 11:30:05,992:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:05,992:db_repo:INFO:get all
+2022-10-18 11:30:06,002:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,002:db_repo:INFO:get all
+2022-10-18 11:30:06,145:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,151:db_repo:INFO:get all
+2022-10-18 11:30:06,162:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,162:db_repo:INFO:get all
+2022-10-18 11:30:06,291:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,292:db_repo:INFO:get all
+2022-10-18 11:30:06,314:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,314:db_repo:INFO:get all
+2022-10-18 11:30:06,767:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,768:db_repo:INFO:get all
+2022-10-18 11:30:06,778:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:06,778:db_repo:INFO:get all
+2022-10-18 11:30:07,257:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:07,257:db_repo:INFO:get all
+2022-10-18 11:30:07,285:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:07,285:db_repo:INFO:get all
+2022-10-18 11:30:07,430:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:07,430:db_repo:INFO:get all
+2022-10-18 11:30:07,440:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:07,440:db_repo:INFO:get all
+2022-10-18 11:30:50,355:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:50,355:db_repo:INFO:get all
+2022-10-18 11:30:50,365:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:30:50,365:db_repo:INFO:get all
+2022-10-18 11:31:01,605:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:31:01,605:db_repo:INFO:get all
+2022-10-18 11:31:01,624:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:31:01,624:db_repo:INFO:get all
+2022-10-18 11:31:36,507:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:31:36,507:db_repo:INFO:get all
+2022-10-18 11:31:36,521:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:31:36,521:db_repo:INFO:get all
+2022-10-18 11:32:39,941:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:39,941:db_repo:INFO:get all
+2022-10-18 11:32:39,979:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:39,980:db_repo:INFO:get all
+2022-10-18 11:32:42,981:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:42,981:db_repo:INFO:get all
+2022-10-18 11:32:43,033:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:43,033:db_repo:INFO:get all
+2022-10-18 11:32:44,834:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:44,834:db_repo:INFO:get all
+2022-10-18 11:32:44,848:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:44,848:db_repo:INFO:get all
+2022-10-18 11:32:46,546:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:46,546:db_repo:INFO:get all
+2022-10-18 11:32:46,559:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:32:46,559:db_repo:INFO:get all
+2022-10-18 11:33:00,030:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:33:00,030:db_repo:INFO:get all
+2022-10-18 11:33:00,043:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:33:00,043:db_repo:INFO:get all
+2022-10-18 11:56:02,855:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:56:02,855:db_repo:INFO:get all
+2022-10-18 11:56:02,868:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:56:02,869:db_repo:INFO:get all
+2022-10-18 11:56:02,931:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:56:02,932:db_repo:INFO:get all
+2022-10-18 11:56:02,941:FacadeBase:INFO:airlines has been shown!
+2022-10-18 11:56:02,941:db_repo:INFO:get all
+2022-10-18 11:56:10,520:FacadeBase:INFO:flights has been shown!
+2022-10-18 11:56:10,521:db_repo:INFO:get all
+2022-10-18 11:57:11,644:FacadeBase:INFO:flights has been shown!
+2022-10-18 11:57:11,644:db_repo:INFO:get all
+2022-10-18 11:58:30,648:FacadeBase:INFO:flights has been shown!
+2022-10-18 11:58:30,649:db_repo:INFO:get all
+2022-10-18 13:08:54,227:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:08:54,227:db_repo:INFO:get all
+2022-10-18 13:15:26,404:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:15:26,404:db_repo:INFO:get all
+2022-10-18 13:15:26,414:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:15:26,415:db_repo:INFO:get all
+2022-10-18 13:15:37,656:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:15:37,656:db_repo:INFO:get all
+2022-10-18 13:15:37,666:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:15:37,666:db_repo:INFO:get all
+2022-10-18 13:16:08,178:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:16:08,178:db_repo:INFO:get all
+2022-10-18 13:16:12,228:FacadeBase:INFO:airline  shown!
+2022-10-18 13:16:13,360:FacadeBase:INFO:airline  shown!
+2022-10-18 13:16:14,524:FacadeBase:ERROR: id*3*, was not found!
+2022-10-18 13:16:15,926:FacadeBase:INFO:airline  shown!
+2022-10-18 13:16:18,492:FacadeBase:INFO:airline  shown!
+2022-10-18 13:16:59,424:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:16:59,424:db_repo:INFO:get all
+2022-10-18 13:17:17,083:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:17,083:db_repo:INFO:get all
+2022-10-18 13:17:17,114:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:17,114:db_repo:INFO:get all
+2022-10-18 13:17:24,300:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:24,301:db_repo:INFO:get all
+2022-10-18 13:17:24,316:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:24,316:db_repo:INFO:get all
+2022-10-18 13:17:36,968:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:36,968:db_repo:INFO:get all
+2022-10-18 13:17:36,993:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:36,993:db_repo:INFO:get all
+2022-10-18 13:17:40,441:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:40,441:db_repo:INFO:get all
+2022-10-18 13:17:40,458:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:40,458:db_repo:INFO:get all
+2022-10-18 13:17:58,469:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:58,469:db_repo:INFO:get all
+2022-10-18 13:17:58,479:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:58,479:db_repo:INFO:get all
+2022-10-18 13:17:59,366:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:59,366:db_repo:INFO:get all
+2022-10-18 13:17:59,376:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:59,377:db_repo:INFO:get all
+2022-10-18 13:17:59,919:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:59,919:db_repo:INFO:get all
+2022-10-18 13:17:59,932:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:17:59,932:db_repo:INFO:get all
+2022-10-18 13:18:00,109:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,109:db_repo:INFO:get all
+2022-10-18 13:18:00,120:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,120:db_repo:INFO:get all
+2022-10-18 13:18:00,273:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,273:db_repo:INFO:get all
+2022-10-18 13:18:00,284:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,284:db_repo:INFO:get all
+2022-10-18 13:18:00,438:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,438:db_repo:INFO:get all
+2022-10-18 13:18:00,449:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,450:db_repo:INFO:get all
+2022-10-18 13:18:00,586:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,586:db_repo:INFO:get all
+2022-10-18 13:18:00,597:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,598:db_repo:INFO:get all
+2022-10-18 13:18:00,738:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,739:db_repo:INFO:get all
+2022-10-18 13:18:00,749:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,749:db_repo:INFO:get all
+2022-10-18 13:18:00,911:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,911:db_repo:INFO:get all
+2022-10-18 13:18:00,921:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:00,921:db_repo:INFO:get all
+2022-10-18 13:18:01,176:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:01,176:db_repo:INFO:get all
+2022-10-18 13:18:01,188:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:18:01,188:db_repo:INFO:get all
+2022-10-18 13:18:19,849:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:19,849:db_repo:INFO:get all
+2022-10-18 13:18:22,497:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:22,498:db_repo:INFO:get all
+2022-10-18 13:18:23,832:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:23,832:db_repo:INFO:get all
+2022-10-18 13:18:24,999:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:24,999:db_repo:INFO:get all
+2022-10-18 13:18:31,956:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:31,956:db_repo:INFO:get all
+2022-10-18 13:18:52,048:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:52,049:db_repo:INFO:get all
+2022-10-18 13:18:53,459:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:18:53,459:db_repo:INFO:get all
+2022-10-18 13:19:09,651:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:19:09,651:db_repo:INFO:get all
+2022-10-18 13:19:10,673:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:19:10,673:db_repo:INFO:get all
+2022-10-18 13:19:58,744:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:19:58,744:db_repo:INFO:get all
+2022-10-18 13:19:58,774:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:19:58,774:db_repo:INFO:get all
+2022-10-18 13:19:58,905:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:19:58,905:db_repo:INFO:get all
+2022-10-18 13:19:58,921:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:19:58,921:db_repo:INFO:get all
+2022-10-18 13:20:50,959:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:20:50,959:db_repo:INFO:get all
+2022-10-18 13:20:50,972:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:20:50,972:db_repo:INFO:get all
+2022-10-18 13:20:54,868:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:20:54,868:db_repo:INFO:get all
+2022-10-18 13:20:54,906:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:20:54,907:db_repo:INFO:get all
+2022-10-18 13:20:57,773:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:20:57,773:db_repo:INFO:get all
+2022-10-18 13:20:57,781:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:20:57,781:db_repo:INFO:get all
+2022-10-18 13:21:50,823:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:21:50,823:db_repo:INFO:get all
+2022-10-18 13:21:50,934:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:21:50,934:db_repo:INFO:get all
+2022-10-18 13:22:03,024:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:03,024:db_repo:INFO:get all
+2022-10-18 13:22:03,035:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:03,035:db_repo:INFO:get all
+2022-10-18 13:22:04,781:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:04,782:db_repo:INFO:get all
+2022-10-18 13:22:04,794:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:04,795:db_repo:INFO:get all
+2022-10-18 13:22:05,378:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,379:db_repo:INFO:get all
+2022-10-18 13:22:05,391:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,391:db_repo:INFO:get all
+2022-10-18 13:22:05,547:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,547:db_repo:INFO:get all
+2022-10-18 13:22:05,558:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,558:db_repo:INFO:get all
+2022-10-18 13:22:05,722:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,722:db_repo:INFO:get all
+2022-10-18 13:22:05,734:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,734:db_repo:INFO:get all
+2022-10-18 13:22:05,892:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,892:db_repo:INFO:get all
+2022-10-18 13:22:05,904:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:05,904:db_repo:INFO:get all
+2022-10-18 13:22:06,069:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,069:db_repo:INFO:get all
+2022-10-18 13:22:06,079:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,079:db_repo:INFO:get all
+2022-10-18 13:22:06,216:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,216:db_repo:INFO:get all
+2022-10-18 13:22:06,229:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,229:db_repo:INFO:get all
+2022-10-18 13:22:06,517:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,517:db_repo:INFO:get all
+2022-10-18 13:22:06,531:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,531:db_repo:INFO:get all
+2022-10-18 13:22:06,673:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,673:db_repo:INFO:get all
+2022-10-18 13:22:06,687:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,687:db_repo:INFO:get all
+2022-10-18 13:22:06,836:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,836:db_repo:INFO:get all
+2022-10-18 13:22:06,846:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,846:db_repo:INFO:get all
+2022-10-18 13:22:06,990:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:06,991:db_repo:INFO:get all
+2022-10-18 13:22:07,001:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:07,001:db_repo:INFO:get all
+2022-10-18 13:22:07,510:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:07,510:db_repo:INFO:get all
+2022-10-18 13:22:07,520:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:07,521:db_repo:INFO:get all
+2022-10-18 13:22:08,938:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:08,938:db_repo:INFO:get all
+2022-10-18 13:22:08,949:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:08,949:db_repo:INFO:get all
+2022-10-18 13:22:09,671:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:09,671:db_repo:INFO:get all
+2022-10-18 13:22:09,682:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:09,683:db_repo:INFO:get all
+2022-10-18 13:22:09,855:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:09,855:db_repo:INFO:get all
+2022-10-18 13:22:09,867:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:09,867:db_repo:INFO:get all
+2022-10-18 13:22:10,025:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:10,025:db_repo:INFO:get all
+2022-10-18 13:22:10,034:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:10,034:db_repo:INFO:get all
+2022-10-18 13:22:10,209:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:10,209:db_repo:INFO:get all
+2022-10-18 13:22:10,223:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:10,223:db_repo:INFO:get all
+2022-10-18 13:22:10,856:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:10,856:db_repo:INFO:get all
+2022-10-18 13:22:10,869:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:10,869:db_repo:INFO:get all
+2022-10-18 13:22:11,046:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,046:db_repo:INFO:get all
+2022-10-18 13:22:11,058:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,058:db_repo:INFO:get all
+2022-10-18 13:22:11,208:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,208:db_repo:INFO:get all
+2022-10-18 13:22:11,221:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,221:db_repo:INFO:get all
+2022-10-18 13:22:11,391:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,391:db_repo:INFO:get all
+2022-10-18 13:22:11,404:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,404:db_repo:INFO:get all
+2022-10-18 13:22:11,560:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,560:db_repo:INFO:get all
+2022-10-18 13:22:11,570:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,570:db_repo:INFO:get all
+2022-10-18 13:22:11,750:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,750:db_repo:INFO:get all
+2022-10-18 13:22:11,764:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:11,764:db_repo:INFO:get all
+2022-10-18 13:22:19,330:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:19,330:db_repo:INFO:get all
+2022-10-18 13:22:19,343:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:19,343:db_repo:INFO:get all
+2022-10-18 13:22:33,818:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:33,818:db_repo:INFO:get all
+2022-10-18 13:22:33,828:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:22:33,828:db_repo:INFO:get all
+2022-10-18 13:23:45,775:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:23:45,776:db_repo:INFO:get all
+2022-10-18 13:23:45,793:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:23:45,794:db_repo:INFO:get all
+2022-10-18 13:23:48,862:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:23:48,862:db_repo:INFO:get all
+2022-10-18 13:23:48,874:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:23:48,874:db_repo:INFO:get all
+2022-10-18 13:24:05,894:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:05,896:db_repo:INFO:get all
+2022-10-18 13:24:05,906:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:05,906:db_repo:INFO:get all
+2022-10-18 13:24:14,236:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:14,237:db_repo:INFO:get all
+2022-10-18 13:24:14,265:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:14,266:db_repo:INFO:get all
+2022-10-18 13:24:17,470:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:17,471:db_repo:INFO:get all
+2022-10-18 13:24:17,479:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:17,479:db_repo:INFO:get all
+2022-10-18 13:24:24,337:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:24,337:db_repo:INFO:get all
+2022-10-18 13:24:24,347:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:24:24,347:db_repo:INFO:get all
+2022-10-18 13:25:08,311:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:08,311:db_repo:INFO:get all
+2022-10-18 13:25:08,321:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:08,321:db_repo:INFO:get all
+2022-10-18 13:25:11,092:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:11,092:db_repo:INFO:get all
+2022-10-18 13:25:11,107:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:11,107:db_repo:INFO:get all
+2022-10-18 13:25:13,105:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:13,105:db_repo:INFO:get all
+2022-10-18 13:25:13,114:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:13,114:db_repo:INFO:get all
+2022-10-18 13:25:13,878:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:13,878:db_repo:INFO:get all
+2022-10-18 13:25:13,886:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:13,886:db_repo:INFO:get all
+2022-10-18 13:25:18,337:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:18,337:db_repo:INFO:get all
+2022-10-18 13:25:18,353:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:25:18,353:db_repo:INFO:get all
+2022-10-18 13:27:01,376:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:01,377:db_repo:INFO:get all
+2022-10-18 13:27:01,389:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:01,389:db_repo:INFO:get all
+2022-10-18 13:27:25,051:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:25,051:db_repo:INFO:get all
+2022-10-18 13:27:25,060:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:25,060:db_repo:INFO:get all
+2022-10-18 13:27:25,903:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:25,903:db_repo:INFO:get all
+2022-10-18 13:27:25,913:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:25,913:db_repo:INFO:get all
+2022-10-18 13:27:31,437:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:31,437:db_repo:INFO:get all
+2022-10-18 13:27:31,450:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:31,450:db_repo:INFO:get all
+2022-10-18 13:27:33,065:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,065:db_repo:INFO:get all
+2022-10-18 13:27:33,075:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,075:db_repo:INFO:get all
+2022-10-18 13:27:33,266:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,266:db_repo:INFO:get all
+2022-10-18 13:27:33,276:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,277:db_repo:INFO:get all
+2022-10-18 13:27:33,427:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,427:db_repo:INFO:get all
+2022-10-18 13:27:33,437:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,437:db_repo:INFO:get all
+2022-10-18 13:27:33,594:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,594:db_repo:INFO:get all
+2022-10-18 13:27:33,605:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,605:db_repo:INFO:get all
+2022-10-18 13:27:33,780:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,780:db_repo:INFO:get all
+2022-10-18 13:27:33,790:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:27:33,790:db_repo:INFO:get all
+2022-10-18 13:28:23,951:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:23,951:db_repo:INFO:get all
+2022-10-18 13:28:23,964:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:23,964:db_repo:INFO:get all
+2022-10-18 13:28:35,881:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:35,881:db_repo:INFO:get all
+2022-10-18 13:28:35,889:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:35,889:db_repo:INFO:get all
+2022-10-18 13:28:36,623:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:36,623:db_repo:INFO:get all
+2022-10-18 13:28:36,633:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:36,633:db_repo:INFO:get all
+2022-10-18 13:28:37,203:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,203:db_repo:INFO:get all
+2022-10-18 13:28:37,213:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,213:db_repo:INFO:get all
+2022-10-18 13:28:37,369:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,369:db_repo:INFO:get all
+2022-10-18 13:28:37,378:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,378:db_repo:INFO:get all
+2022-10-18 13:28:37,545:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,545:db_repo:INFO:get all
+2022-10-18 13:28:37,556:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,556:db_repo:INFO:get all
+2022-10-18 13:28:37,722:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,722:db_repo:INFO:get all
+2022-10-18 13:28:37,731:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,731:db_repo:INFO:get all
+2022-10-18 13:28:37,912:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,912:db_repo:INFO:get all
+2022-10-18 13:28:37,924:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:37,924:db_repo:INFO:get all
+2022-10-18 13:28:38,038:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,038:db_repo:INFO:get all
+2022-10-18 13:28:38,048:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,048:db_repo:INFO:get all
+2022-10-18 13:28:38,187:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,187:db_repo:INFO:get all
+2022-10-18 13:28:38,198:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,198:db_repo:INFO:get all
+2022-10-18 13:28:38,339:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,340:db_repo:INFO:get all
+2022-10-18 13:28:38,349:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,349:db_repo:INFO:get all
+2022-10-18 13:28:38,491:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,491:db_repo:INFO:get all
+2022-10-18 13:28:38,501:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,501:db_repo:INFO:get all
+2022-10-18 13:28:38,654:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,654:db_repo:INFO:get all
+2022-10-18 13:28:38,664:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,664:db_repo:INFO:get all
+2022-10-18 13:28:38,806:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,806:db_repo:INFO:get all
+2022-10-18 13:28:38,816:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,817:db_repo:INFO:get all
+2022-10-18 13:28:38,967:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,968:db_repo:INFO:get all
+2022-10-18 13:28:38,979:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:38,979:db_repo:INFO:get all
+2022-10-18 13:28:39,127:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:39,127:db_repo:INFO:get all
+2022-10-18 13:28:39,137:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:39,137:db_repo:INFO:get all
+2022-10-18 13:28:47,524:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:47,525:db_repo:INFO:get all
+2022-10-18 13:28:47,535:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:47,536:db_repo:INFO:get all
+2022-10-18 13:28:51,832:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:51,832:db_repo:INFO:get all
+2022-10-18 13:28:51,843:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:51,844:db_repo:INFO:get all
+2022-10-18 13:28:59,785:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:59,785:db_repo:INFO:get all
+2022-10-18 13:28:59,799:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:28:59,800:db_repo:INFO:get all
+2022-10-18 13:29:02,223:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:02,223:db_repo:INFO:get all
+2022-10-18 13:29:02,253:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:02,272:db_repo:INFO:get all
+2022-10-18 13:29:04,334:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:04,334:db_repo:INFO:get all
+2022-10-18 13:29:04,344:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:04,344:db_repo:INFO:get all
+2022-10-18 13:29:12,680:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:12,680:db_repo:INFO:get all
+2022-10-18 13:29:12,690:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:12,690:db_repo:INFO:get all
+2022-10-18 13:29:13,245:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,246:db_repo:INFO:get all
+2022-10-18 13:29:13,271:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,271:db_repo:INFO:get all
+2022-10-18 13:29:13,421:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,421:db_repo:INFO:get all
+2022-10-18 13:29:13,433:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,433:db_repo:INFO:get all
+2022-10-18 13:29:13,577:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,577:db_repo:INFO:get all
+2022-10-18 13:29:13,588:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,588:db_repo:INFO:get all
+2022-10-18 13:29:13,743:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,743:db_repo:INFO:get all
+2022-10-18 13:29:13,753:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:29:13,753:db_repo:INFO:get all
+2022-10-18 13:30:49,985:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:30:49,986:db_repo:INFO:get all
+2022-10-18 13:30:53,458:FacadeBase:INFO:airline  shown!
+2022-10-18 13:38:18,412:FacadeBase:INFO:airline  shown!
+2022-10-18 13:38:52,320:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:52,320:db_repo:INFO:get all
+2022-10-18 13:38:52,329:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:52,330:db_repo:INFO:get all
+2022-10-18 13:38:54,287:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:54,287:db_repo:INFO:get all
+2022-10-18 13:38:54,297:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:54,297:db_repo:INFO:get all
+2022-10-18 13:38:54,652:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:54,652:db_repo:INFO:get all
+2022-10-18 13:38:54,661:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:54,661:db_repo:INFO:get all
+2022-10-18 13:38:54,826:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:54,826:db_repo:INFO:get all
+2022-10-18 13:38:54,835:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:54,835:db_repo:INFO:get all
+2022-10-18 13:38:55,020:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,021:db_repo:INFO:get all
+2022-10-18 13:38:55,271:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,271:db_repo:INFO:get all
+2022-10-18 13:38:55,287:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,288:db_repo:INFO:get all
+2022-10-18 13:38:55,459:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,459:db_repo:INFO:get all
+2022-10-18 13:38:55,469:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,469:db_repo:INFO:get all
+2022-10-18 13:38:55,646:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,647:db_repo:INFO:get all
+2022-10-18 13:38:55,657:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,657:db_repo:INFO:get all
+2022-10-18 13:38:55,918:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:55,918:db_repo:INFO:get all
+2022-10-18 13:38:56,160:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,161:db_repo:INFO:get all
+2022-10-18 13:38:56,178:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,178:db_repo:INFO:get all
+2022-10-18 13:38:56,350:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,350:db_repo:INFO:get all
+2022-10-18 13:38:56,360:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,360:db_repo:INFO:get all
+2022-10-18 13:38:56,548:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,548:db_repo:INFO:get all
+2022-10-18 13:38:56,557:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,557:db_repo:INFO:get all
+2022-10-18 13:38:56,910:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,910:db_repo:INFO:get all
+2022-10-18 13:38:56,920:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:56,920:db_repo:INFO:get all
+2022-10-18 13:38:57,082:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,082:db_repo:INFO:get all
+2022-10-18 13:38:57,093:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,093:db_repo:INFO:get all
+2022-10-18 13:38:57,309:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,309:db_repo:INFO:get all
+2022-10-18 13:38:57,320:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,321:db_repo:INFO:get all
+2022-10-18 13:38:57,431:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,431:db_repo:INFO:get all
+2022-10-18 13:38:57,441:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,441:db_repo:INFO:get all
+2022-10-18 13:38:57,639:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,639:db_repo:INFO:get all
+2022-10-18 13:38:57,663:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,663:db_repo:INFO:get all
+2022-10-18 13:38:57,799:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,800:db_repo:INFO:get all
+2022-10-18 13:38:57,812:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:57,813:db_repo:INFO:get all
+2022-10-18 13:38:58,023:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,023:db_repo:INFO:get all
+2022-10-18 13:38:58,034:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,034:db_repo:INFO:get all
+2022-10-18 13:38:58,165:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,165:db_repo:INFO:get all
+2022-10-18 13:38:58,176:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,176:db_repo:INFO:get all
+2022-10-18 13:38:58,378:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,378:db_repo:INFO:get all
+2022-10-18 13:38:58,388:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,388:db_repo:INFO:get all
+2022-10-18 13:38:58,529:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,529:db_repo:INFO:get all
+2022-10-18 13:38:58,539:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,539:db_repo:INFO:get all
+2022-10-18 13:38:58,780:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,780:db_repo:INFO:get all
+2022-10-18 13:38:58,794:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,794:db_repo:INFO:get all
+2022-10-18 13:38:58,956:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,956:db_repo:INFO:get all
+2022-10-18 13:38:58,976:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:58,976:db_repo:INFO:get all
+2022-10-18 13:38:59,244:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:59,245:db_repo:INFO:get all
+2022-10-18 13:38:59,262:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:59,262:db_repo:INFO:get all
+2022-10-18 13:38:59,644:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:59,644:db_repo:INFO:get all
+2022-10-18 13:38:59,656:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:59,656:db_repo:INFO:get all
+2022-10-18 13:38:59,943:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:59,961:db_repo:INFO:get all
+2022-10-18 13:38:59,985:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:38:59,985:db_repo:INFO:get all
+2022-10-18 13:39:00,102:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:00,102:db_repo:INFO:get all
+2022-10-18 13:39:00,112:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:00,112:db_repo:INFO:get all
+2022-10-18 13:39:00,793:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:00,793:db_repo:INFO:get all
+2022-10-18 13:39:00,805:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:00,805:db_repo:INFO:get all
+2022-10-18 13:39:00,931:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:00,931:db_repo:INFO:get all
+2022-10-18 13:39:00,940:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:00,940:db_repo:INFO:get all
+2022-10-18 13:39:01,154:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:01,155:db_repo:INFO:get all
+2022-10-18 13:39:01,167:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:01,167:db_repo:INFO:get all
+2022-10-18 13:39:01,309:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:01,309:db_repo:INFO:get all
+2022-10-18 13:39:01,320:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:01,321:db_repo:INFO:get all
+2022-10-18 13:39:01,794:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:01,795:db_repo:INFO:get all
+2022-10-18 13:39:01,806:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:01,807:db_repo:INFO:get all
+2022-10-18 13:39:02,006:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:02,006:db_repo:INFO:get all
+2022-10-18 13:39:02,028:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:02,029:db_repo:INFO:get all
+2022-10-18 13:39:02,827:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:02,827:db_repo:INFO:get all
+2022-10-18 13:39:02,838:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:02,838:db_repo:INFO:get all
+2022-10-18 13:39:03,082:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,082:db_repo:INFO:get all
+2022-10-18 13:39:03,097:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,098:db_repo:INFO:get all
+2022-10-18 13:39:03,265:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,265:db_repo:INFO:get all
+2022-10-18 13:39:03,275:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,275:db_repo:INFO:get all
+2022-10-18 13:39:03,481:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,481:db_repo:INFO:get all
+2022-10-18 13:39:03,492:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,492:db_repo:INFO:get all
+2022-10-18 13:39:03,873:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,873:db_repo:INFO:get all
+2022-10-18 13:39:03,886:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:03,886:db_repo:INFO:get all
+2022-10-18 13:39:04,018:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:04,018:db_repo:INFO:get all
+2022-10-18 13:39:04,028:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:04,029:db_repo:INFO:get all
+2022-10-18 13:39:04,442:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:04,442:db_repo:INFO:get all
+2022-10-18 13:39:04,451:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:04,451:db_repo:INFO:get all
+2022-10-18 13:39:04,917:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:04,918:db_repo:INFO:get all
+2022-10-18 13:39:04,928:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:04,928:db_repo:INFO:get all
+2022-10-18 13:39:05,101:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:05,101:db_repo:INFO:get all
+2022-10-18 13:39:05,111:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:05,111:db_repo:INFO:get all
+2022-10-18 13:39:05,329:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:05,330:db_repo:INFO:get all
+2022-10-18 13:39:05,346:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:05,346:db_repo:INFO:get all
+2022-10-18 13:39:05,761:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:05,761:db_repo:INFO:get all
+2022-10-18 13:39:05,772:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:05,772:db_repo:INFO:get all
+2022-10-18 13:39:06,178:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,178:db_repo:INFO:get all
+2022-10-18 13:39:06,189:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,189:db_repo:INFO:get all
+2022-10-18 13:39:06,400:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,400:db_repo:INFO:get all
+2022-10-18 13:39:06,414:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,414:db_repo:INFO:get all
+2022-10-18 13:39:06,605:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,605:db_repo:INFO:get all
+2022-10-18 13:39:06,620:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,621:db_repo:INFO:get all
+2022-10-18 13:39:06,822:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,823:db_repo:INFO:get all
+2022-10-18 13:39:06,846:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:39:06,846:db_repo:INFO:get all
+2022-10-18 13:40:11,678:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:40:11,678:db_repo:INFO:get all
+2022-10-18 13:40:11,789:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:40:11,789:db_repo:INFO:get all
+2022-10-18 13:40:36,827:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:40:36,828:db_repo:INFO:get all
+2022-10-18 13:40:36,942:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:40:36,942:db_repo:INFO:get all
+2022-10-18 13:42:53,984:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:42:53,984:db_repo:INFO:get all
+2022-10-18 13:44:00,893:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:44:00,905:db_repo:INFO:get all
+2022-10-18 13:44:00,917:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:44:00,917:db_repo:INFO:get all
+2022-10-18 13:46:24,018:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:46:24,018:db_repo:INFO:get all
+2022-10-18 13:46:24,030:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:46:24,030:db_repo:INFO:get all
+2022-10-18 13:46:31,614:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:46:31,614:db_repo:INFO:get all
+2022-10-18 13:46:31,627:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:46:31,627:db_repo:INFO:get all
+2022-10-18 13:46:50,915:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:46:50,915:db_repo:INFO:get all
+2022-10-18 13:46:50,927:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:46:50,927:db_repo:INFO:get all
+2022-10-18 13:47:32,032:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:32,033:db_repo:INFO:get all
+2022-10-18 13:47:32,059:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:32,059:db_repo:INFO:get all
+2022-10-18 13:47:51,699:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:51,700:db_repo:INFO:get all
+2022-10-18 13:47:51,715:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:51,715:db_repo:INFO:get all
+2022-10-18 13:47:53,786:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:53,786:db_repo:INFO:get all
+2022-10-18 13:47:53,807:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:53,808:db_repo:INFO:get all
+2022-10-18 13:47:55,876:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:55,876:db_repo:INFO:get all
+2022-10-18 13:47:55,888:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:55,888:db_repo:INFO:get all
+2022-10-18 13:47:57,437:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:57,437:db_repo:INFO:get all
+2022-10-18 13:47:57,448:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:57,448:db_repo:INFO:get all
+2022-10-18 13:47:59,448:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:59,448:db_repo:INFO:get all
+2022-10-18 13:47:59,470:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:47:59,470:db_repo:INFO:get all
+2022-10-18 13:48:00,466:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:00,467:db_repo:INFO:get all
+2022-10-18 13:48:00,479:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:00,479:db_repo:INFO:get all
+2022-10-18 13:48:01,466:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:01,466:db_repo:INFO:get all
+2022-10-18 13:48:01,476:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:01,476:db_repo:INFO:get all
+2022-10-18 13:48:04,892:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:04,893:db_repo:INFO:get all
+2022-10-18 13:48:04,905:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:04,905:db_repo:INFO:get all
+2022-10-18 13:48:07,265:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:07,265:db_repo:INFO:get all
+2022-10-18 13:48:07,277:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:07,278:db_repo:INFO:get all
+2022-10-18 13:48:10,365:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:10,366:db_repo:INFO:get all
+2022-10-18 13:48:10,382:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:10,382:db_repo:INFO:get all
+2022-10-18 13:48:13,193:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:13,193:db_repo:INFO:get all
+2022-10-18 13:48:13,225:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:13,225:db_repo:INFO:get all
+2022-10-18 13:48:19,366:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:19,366:db_repo:INFO:get all
+2022-10-18 13:48:19,377:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:19,377:db_repo:INFO:get all
+2022-10-18 13:48:20,425:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:20,425:db_repo:INFO:get all
+2022-10-18 13:48:20,436:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:20,436:db_repo:INFO:get all
+2022-10-18 13:48:20,565:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:20,565:db_repo:INFO:get all
+2022-10-18 13:48:20,577:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:20,577:db_repo:INFO:get all
+2022-10-18 13:48:20,740:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:20,740:db_repo:INFO:get all
+2022-10-18 13:48:20,753:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:20,753:db_repo:INFO:get all
+2022-10-18 13:48:21,019:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:21,019:db_repo:INFO:get all
+2022-10-18 13:48:21,038:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:21,038:db_repo:INFO:get all
+2022-10-18 13:48:26,584:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:26,585:db_repo:INFO:get all
+2022-10-18 13:48:26,595:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:26,596:db_repo:INFO:get all
+2022-10-18 13:48:33,938:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:33,938:db_repo:INFO:get all
+2022-10-18 13:48:33,957:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:33,957:db_repo:INFO:get all
+2022-10-18 13:48:38,126:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:38,126:db_repo:INFO:get all
+2022-10-18 13:48:38,156:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:48:38,156:db_repo:INFO:get all
+2022-10-18 13:49:21,179:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:49:21,179:db_repo:INFO:get all
+2022-10-18 13:49:31,715:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:49:31,715:db_repo:INFO:get all
+2022-10-18 13:50:20,537:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:50:20,537:db_repo:INFO:get all
+2022-10-18 13:50:20,551:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:50:20,552:db_repo:INFO:get all
+2022-10-18 13:50:28,545:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:50:28,546:db_repo:INFO:get all
+2022-10-18 13:50:33,944:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:50:33,944:db_repo:INFO:get all
+2022-10-18 13:50:33,956:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:50:33,956:db_repo:INFO:get all
+2022-10-18 13:53:15,757:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:53:15,758:db_repo:INFO:get all
+2022-10-18 13:53:15,776:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:53:15,776:db_repo:INFO:get all
+2022-10-18 13:54:49,979:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:54:49,979:db_repo:INFO:get all
+2022-10-18 13:54:49,989:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:54:49,989:db_repo:INFO:get all
+2022-10-18 13:55:27,699:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:55:27,699:db_repo:INFO:get all
+2022-10-18 13:55:27,714:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:55:27,714:db_repo:INFO:get all
+2022-10-18 13:55:29,671:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:55:29,671:db_repo:INFO:get all
+2022-10-18 13:55:38,698:FacadeBase:INFO:flights has been shown!
+2022-10-18 13:55:38,698:db_repo:INFO:get all
+2022-10-18 13:55:47,406:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:55:47,406:db_repo:INFO:get all
+2022-10-18 13:55:47,417:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:55:47,417:db_repo:INFO:get all
+2022-10-18 13:56:05,853:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:56:05,853:db_repo:INFO:get all
+2022-10-18 13:56:18,363:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:56:18,364:db_repo:INFO:get all
+2022-10-18 13:56:18,379:FacadeBase:INFO:airlines has been shown!
+2022-10-18 13:56:18,379:db_repo:INFO:get all
